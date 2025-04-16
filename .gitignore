@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Build outputs
+dist/
+build/
+
+# Logs
+*.log
+
+# Cache
+.cache/ 
