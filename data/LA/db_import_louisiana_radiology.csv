@@ -1,0 +1,1941 @@
+proc_cd,modifier,description,rate,rate_unit,is_by_report,region_type,region_value
+70010,,Contrast X -ray of brain,438.0,1,False,state,LA
+70010,26,Contrast X -ray of brain,127.0,1,False,state,LA
+70010,TC,Contrast X -ray of brain,311.0,1,False,state,LA
+70015,,Contrast X -ray of brain,224.0,1,False,state,LA
+70015,26,Contrast X -ray of brain,127.0,1,False,state,LA
+70015,TC,Contrast X -ray of brain,98.0,1,False,state,LA
+70030,,X-ray eye for foreign body,49.0,1,False,state,LA
+70030,26,X-ray eye for foreign body,19.0,1,False,state,LA
+70030,TC,X-ray eye for foreign body,31.0,1,False,state,LA
+70100,,X-ray exam of jaw,58.0,1,False,state,LA
+70100,26,X-ray exam of jaw,20.0,1,False,state,LA
+70100,TC,X-ray exam of jaw,38.0,1,False,state,LA
+70110,,X-ray exam of jaw,73.0,1,False,state,LA
+70110,26,X-ray exam of jaw,28.0,1,False,state,LA
+70110,TC,X-ray exam of jaw,45.0,1,False,state,LA
+70120,,X-ray exam of mastoids,65.0,1,False,state,LA
+70120,26,X-ray exam of mastoids,20.0,1,False,state,LA
+70120,TC,X-ray exam of mastoids,45.0,1,False,state,LA
+70130,,X-ray exam of mastoids,94.0,1,False,state,LA
+70130,26,X-ray exam of mastoids,37.0,1,False,state,LA
+70130,TC,X-ray exam of mastoids,57.0,1,False,state,LA
+70134,,X-ray exam of middle ear,90.0,1,False,state,LA
+70134,26,X-ray exam of middle ear,37.0,1,False,state,LA
+70134,TC,X-ray exam of middle ear,54.0,1,False,state,LA
+70140,,X-ray exam of facial bones,66.0,1,False,state,LA
+70140,26,X-ray exam of facial bones,21.0,1,False,state,LA
+70140,TC,X-ray exam of facial bones,45.0,1,False,state,LA
+70150,,X-ray exam of facial bones,85.0,1,False,state,LA
+70150,26,X-ray exam of facial bones,28.0,1,False,state,LA
+70150,TC,X-ray exam of facial bones,57.0,1,False,state,LA
+70160,,X-ray exam of nasal bones,56.0,1,False,state,LA
+70160,26,X-ray exam of nasal bones,19.0,1,False,state,LA
+70160,TC,X-ray exam of nasal bones,38.0,1,False,state,LA
+70170,,X-ray exam of tear duct,101.0,1,False,state,LA
+70170,26,X-ray exam of tear duct,33.0,1,False,state,LA
+70170,TC,X-ray exam of tear duct,68.0,1,False,state,LA
+70190,,X-ray exam of eye sockets,68.0,1,False,state,LA
+70190,26,X-ray exam of eye sockets,23.0,1,False,state,LA
+70190,TC,X-ray exam of eye sockets,45.0,1,False,state,LA
+70200,,X-ray exam of eye sockets,87.0,1,False,state,LA
+70200,26,X-ray exam of eye sockets,31.0,1,False,state,LA
+70200,TC,X-ray exam of eye sockets,57.0,1,False,state,LA
+70210,,X-ray exam of sinuses,63.0,1,False,state,LA
+70210,26,X-ray exam of sinuses,19.0,1,False,state,LA
+70210,TC,X-ray exam of sinuses,45.0,1,False,state,LA
+70220,,X-ray exam of sinuses,84.0,1,False,state,LA
+70220,26,X-ray exam of sinuses,28.0,1,False,state,LA
+70220,TC,X-ray exam of sinuses,57.0,1,False,state,LA
+70240,,X-ray exam pituitary saddle,51.0,1,False,state,LA
+70240,26,X-ray exam pituitary saddle,21.0,1,False,state,LA
+70240,TC,X-ray exam pituitary saddle,31.0,1,False,state,LA
+70250,,X-ray exam of skull,71.0,1,False,state,LA
+70250,26,X-ray exam of skull,26.0,1,False,state,LA
+70250,TC,X-ray exam of skull,45.0,1,False,state,LA
+70260,,X-ray exam of skull,101.0,1,False,state,LA
+70260,26,X-ray exam of skull,37.0,1,False,state,LA
+70260,TC,X-ray exam of skull,65.0,1,False,state,LA
+70300,,X-ray exam of teeth,31.0,1,False,state,LA
+70300,26,X-ray exam of teeth,12.0,1,False,state,LA
+70300,TC,X-ray exam of teeth,19.0,1,False,state,LA
+70310,,X-ray exam of teeth,47.0,1,False,state,LA
+70310,26,X-ray exam of teeth,17.0,1,False,state,LA
+70310,TC,X-ray exam of teeth,31.0,1,False,state,LA
+70320,,Full mouth X -ray of teeth,81.0,1,False,state,LA
+70320,26,Full mouth X -ray of teeth,24.0,1,False,state,LA
+70320,TC,Full mouth X -ray of teeth,57.0,1,False,state,LA
+70328,,X-ray exam of jaw joint,56.0,1,False,state,LA
+70328,26,X-ray exam of jaw joint,20.0,1,False,state,LA
+70328,TC,X-ray exam of jaw joint,36.0,1,False,state,LA
+70330,,X-ray exam of jaw joints,87.0,1,False,state,LA
+70330,26,X-ray exam of jaw joints,26.0,1,False,state,LA
+70330,TC,X-ray exam of jaw joints,61.0,1,False,state,LA
+70332,,X-ray exam of jaw joint,210.0,1,False,state,LA
+70332,26,X-ray exam of jaw joint,59.0,1,False,state,LA
+70332,TC,X-ray exam of jaw joint,151.0,1,False,state,LA
+70336,,Magnetic image jaw joint,906.0,1,False,state,LA
+70336,26,Magnetic image jaw joint,102.0,1,False,state,LA
+70336,TC,Magnetic image jaw joint,804.0,1,False,state,LA
+70350,,X-ray head for orthodontia,45.0,1,False,state,LA
+70350,26,X-ray head for orthodontia,19.0,1,False,state,LA
+70350,TC,X-ray head for orthodontia,27.0,1,False,state,LA
+70355,,Panoramic X -ray of jaws,63.0,1,False,state,LA
+70355,26,Panoramic X -ray of jaws,21.0,1,False,state,LA
+70355,TC,Panoramic X-ray of jaws,42.0,1,False,state,LA
+70360,,X-ray exam of neck,49.0,1,False,state,LA
+70360,26,X-ray exam of neck,19.0,1,False,state,LA
+70360,TC,X-ray exam of neck,31.0,1,False,state,LA
+70370,,Throat X-ray & fluoroscopy,128.0,1,False,state,LA
+70370,26,Throat X-ray & fluoroscopy,35.0,1,False,state,LA
+70370,TC,Throat X-ray & fluoroscopy,94.0,1,False,state,LA
+70371,,"Speech evaluation, complex",241.0,1,False,state,LA
+70371,26,"Speech evaluation, complex",91.0,1,False,state,LA
+70371,TC,"Speech evaluation, complex",151.0,1,False,state,LA
+70373,,Contrast X -ray of larynx,175.0,1,False,state,LA
+70373,26,Contrast X -ray of larynx,47.0,1,False,state,LA
+70373,TC,Contrast X -ray of larynx,129.0,1,False,state,LA
+70380,,X-ray exam of salivary gland,67.0,1,False,state,LA
+70380,26,X-ray exam of salivary gland,19.0,1,False,state,LA
+70380,TC,X-ray exam of salivary gland,49.0,1,False,state,LA
+70390,,X-ray exam of salivary duct,169.0,1,False,state,LA
+70390,26,X-ray exam of salivary duct,41.0,1,False,state,LA
+70390,TC,X-ray exam of salivary duct,129.0,1,False,state,LA
+70450,,Cat scan of head or brain,430.0,1,False,state,LA
+70450,26,Cat scan of head or brain,91.0,1,False,state,LA
+70450,TC,Cat scan of head or brain,339.0,1,False,state,LA
+70460,,Contrast cat scan of head,528.0,1,False,state,LA
+70460,26,Contrast cat scan of head,122.0,1,False,state,LA
+70460,TC,Contrast cat scan of head,406.0,1,False,state,LA
+70470,,Contrast cat scans of head,643.0,1,False,state,LA
+70470,26,Contrast cat scans of head,136.0,1,False,state,LA
+70470,TC,Contrast cat scans of head,507.0,1,False,state,LA
+70480,,Cat scan of skull,476.0,1,False,state,LA
+70480,26,Cat scan of skull,138.0,1,False,state,LA
+70480,TC,Cat scan of skull,339.0,1,False,state,LA
+70481,,Contrast cat scan of skull,554.0,1,False,state,LA
+70481,26,Contrast cat scan of skull,148.0,1,False,state,LA
+70481,TC,Contrast cat scan of skull,406.0,1,False,state,LA
+70482,,Contrast cat scans of skull,663.0,1,False,state,LA
+70482,26,Contrast cat scans of skull,156.0,1,False,state,LA
+70482,TC,Contrast cat scans of skull,507.0,1,False,state,LA
+70486,,"Cat scan of face, jaw",461.0,1,False,state,LA
+70486,26,"Cat scan of face, jaw",122.0,1,False,state,LA
+70486,TC,"Cat scan of face, jaw",339.0,1,False,state,LA
+70487,,"Contrast cat scan, face/jaw",545.0,1,False,state,LA
+70487,26,"Contrast cat scan, face/jaw",139.0,1,False,state,LA
+70487,TC,"Contrast cat scan, face/jaw",406.0,1,False,state,LA
+70488,,Contrast cat scans face/jaw,660.0,1,False,state,LA
+70488,26,Contrast cat scans face/jaw,153.0,1,False,state,LA
+70488,TC,Contrast cat scans face/jaw,507.0,1,False,state,LA
+70490,,Cat scan of neck tissue,476.0,1,False,state,LA
+70490,26,Cat scan of neck tissue,138.0,1,False,state,LA
+70490,TC,Cat scan of neck tissue,339.0,1,False,state,LA
+70491,,Contrast cat of neck tissue,554.0,1,False,state,LA
+70491,26,Contrast cat of neck tissue,148.0,1,False,state,LA
+70491,TC,Contrast cat of neck tissue,406.0,1,False,state,LA
+70492,,Contrast cat of neck tissue,663.0,1,False,state,LA
+70492,26,Contrast cat of neck tissue,156.0,1,False,state,LA
+70492,TC,Contrast cat of neck tissue,507.0,1,False,state,LA
+70496,26,Ct angiography head,174.0,1,False,state,LA
+70496,TC,Ct angiography head,881.0,1,False,state,LA
+70496,,Ct angiography head,1055.0,1,False,state,LA
+70496,26,Ct angiography head,174.0,1,False,state,LA
+70496,TC,Ct angiography head,881.0,1,False,state,LA
+70496,,Ct angiography head,1055.0,1,False,state,LA
+70498,26,Ct angiography neck,174.0,1,False,state,LA
+70498,TC,Ct angiography neck,919.0,1,False,state,LA
+70498,,Ct angiography neck,1093.0,1,False,state,LA
+70498,26,Ct angiography neck,174.0,1,False,state,LA
+70498,TC,Ct angiography neck,919.0,1,False,state,LA
+70498,,Ct angiography neck,1093.0,1,False,state,LA
+70540,,"Magnetic image, face, neck",963.0,1,False,state,LA
+70540,26,"Magnetic image, face, neck",159.0,1,False,state,LA
+70540,TC,"Magnetic image, face, neck",804.0,1,False,state,LA
+70542,26,Mri orbit/face/neck w/dye,161.0,1,False,state,LA
+70542,TC,Mri orbit/face/neck w/dye,807.0,1,False,state,LA
+70542,,Mri orbit/face/neck w/dye,969.0,1,False,state,LA
+70542,26,Mri orbit/face/neck w/dye,161.0,1,False,state,LA
+70542,TC,Mri orbit/face/neck w/dye,807.0,1,False,state,LA
+70542,,Mri orbit/face/neck w/dye,969.0,1,False,state,LA
+70543,26,Mri orbt/fac/nck w/o &  w/dye,213.0,1,False,state,LA
+70543,TC,Mri orbt/fac/nck w/o & w/dye,966.0,1,False,state,LA
+70543,,Mri orbt/fac/nck w/o & w/dye,1180.0,1,False,state,LA
+70543,26,Mri orbt/fac/nck w/o & w/dye,213.0,1,False,state,LA
+70543,TC,Mri orbt/fac/nck w/o & w/dye,966.0,1,False,state,LA
+70543,,Mri orbt/fac/nck w/o & w/dye,1180.0,1,False,state,LA
+70544,26,Mr angiography head w/o dye,120.0,1,False,state,LA
+70544,TC,Mr angiography head w/o dye,849.0,1,False,state,LA
+70544,,Mr angiography head w/o dye,969.0,1,False,state,LA
+70544,26,Mr angiography head w/o dye,120.0,1,False,state,LA
+70544,TC,Mr angiography head w/o dye,849.0,1,False,state,LA
+70544,,Mr angiography head w/o dye,969.0,1,False,state,LA
+70545,26,Mr angiography head w/dye,119.0,1,False,state,LA
+70545,TC,Mr angiography head w/dye,829.0,1,False,state,LA
+70545,,Mr angiography head w/dye,948.0,1,False,state,LA
+70545,26,Mr angiography head w/dye,119.0,1,False,state,LA
+70545,TC,Mr angiography head w/dye,829.0,1,False,state,LA
+70545,,Mr angiography head w/dye,948.0,1,False,state,LA
+70546,26,Mr angiograph head w/o&w/dye,180.0,1,False,state,LA
+70546,TC,Mr angiograph head w/o&w/dye,1281.0,1,False,state,LA
+70546,,Mr angiograph head w/o&w/dye,1461.0,1,False,state,LA
+70546,26,Mr angiograph head w/o&w/dye,180.0,1,False,state,LA
+70546,TC,Mr angiograph head w/o&w/dye,1281.0,1,False,state,LA
+70546,,Mr angiograph head w/o&w/dye,1461.0,1,False,state,LA
+70547,26,Mr angiography neck w/o dye,120.0,1,False,state,LA
+70547,TC,Mr angiography neck w/o dye,849.0,1,False,state,LA
+70547,,Mr angiography neck w/o dye,968.0,1,False,state,LA
+70547,26,Mr angiography neck w/o dye,120.0,1,False,state,LA
+70547,TC,Mr angiography neck w/o dye,849.0,1,False,state,LA
+70547,,Mr angiography neck w/o dye,968.0,1,False,state,LA
+70548,26,Mr angiography neck w/dye,120.0,1,False,state,LA
+70548,TC,Mr angiography neck w/dye,910.0,1,False,state,LA
+70548,,Mr angiography neck w/dye,1030.0,1,False,state,LA
+70548,26,Mr angiography neck w/dye,120.0,1,False,state,LA
+70548,TC,Mr angiography neck w/dye,910.0,1,False,state,LA
+70548,,Mr angiography neck w/dye,1030.0,1,False,state,LA
+70549,26,Mr angiograph neck w/o&w/dye,179.0,1,False,state,LA
+70549,TC,Mr angiograph neck w/o&w/dye,1286.0,1,False,state,LA
+70549,,Mr angiograph neck w/o&w/dye,1465.0,1,False,state,LA
+70549,26,Mr angiograph neck w/o&w/dye,179.0,1,False,state,LA
+70549,TC,Mr angiograph neck w/o&w/dye,1286.0,1,False,state,LA
+70549,,Mr angiograph neck w/o&w/dye,1465.0,1,False,state,LA
+70551,,"Magnetic image, brain",963.0,1,False,state,LA
+70551,26,"Magnetic image, brain",159.0,1,False,state,LA
+70551,TC,"Magnetic image, brain",804.0,1,False,state,LA
+70552,,"Magnetic image, brain",1155.0,1,False,state,LA
+70552,26,"Magnetic image, brain",192.0,1,False,state,LA
+70552,TC,"Magnetic image, brain",964.0,1,False,state,LA
+70553,,"Magnetic image, brain",2039.0,1,False,state,LA
+70553,26,"Magnetic image, brain",255.0,1,False,state,LA
+70553,TC,"Magnetic image, brain",1785.0,1,False,state,LA
+70554,26,Fmri brain by tech,211.0,1,False,state,LA
+70554,TC,Fmri brain by tech,818.0,1,False,state,LA
+70554,,Fmri brain by tech,1029.0,1,False,state,LA
+70554,26,Fmri brain by tech,211.0,1,False,state,LA
+70554,TC,Fmri brain by tech,818.0,1,False,state,LA
+70554,,Fmri brain by tech,1029.0,1,False,state,LA
+70555,,Fmri brain by phys/psych,261.0,1,False,state,LA
+70555,,Fmri brain by phys/psych,261.0,1,False,state,LA
+70557,,Mri brain w/o dye,348.0,1,False,state,LA
+70557,,Mri brain w/o dye,348.0,1,False,state,LA
+70558,,Mri brain w/dye,327.0,1,False,state,LA
+70558,,Mri brain w/dye,327.0,1,False,state,LA
+70559,,Mri brain w/o & w/dye,330.0,1,False,state,LA
+70559,,Mri brain w/o & w/dye,330.0,1,False,state,LA
+71010,,Chest X-ray,54.0,1,False,state,LA
+71010,26,Chest X-ray,19.0,1,False,state,LA
+71010,TC,Chest X-ray,35.0,1,False,state,LA
+71015,,X-ray exam of chest,61.0,1,False,state,LA
+71015,26,X-ray exam of chest,23.0,1,False,state,LA
+71015,TC,X-ray exam of chest,38.0,1,False,state,LA
+71020,,Chest X-ray,68.0,1,False,state,LA
+71020,26,Chest X-ray,24.0,1,False,state,LA
+71020,TC,Chest X-ray,45.0,1,False,state,LA
+71021,,Chest X-ray,82.0,1,False,state,LA
+71021,26,Chest X-ray,29.0,1,False,state,LA
+71021,TC,Chest X-ray,54.0,1,False,state,LA
+71022,,Chest X-ray,87.0,1,False,state,LA
+71022,26,Chest X-ray,33.0,1,False,state,LA
+71022,TC,Chest X-ray,54.0,1,False,state,LA
+71023,,Chest X-ray and fluoroscopy,98.0,1,False,state,LA
+71023,26,Chest X-ray and fluoroscopy,41.0,1,False,state,LA
+71023,TC,Chest X-ray and fluoroscopy,57.0,1,False,state,LA
+71030,,Chest X-ray,90.0,1,False,state,LA
+71030,26,Chest X-ray,33.0,1,False,state,LA
+71030,TC,Chest X-ray,57.0,1,False,state,LA
+71034,,Chest X-ray & fluoroscopy,154.0,1,False,state,LA
+71034,26,Chest X-ray & fluoroscopy,50.0,1,False,state,LA
+71034,TC,Chest X-ray & fluoroscopy,104.0,1,False,state,LA
+71035,,Chest X-ray,57.0,1,False,state,LA
+71035,26,Chest X-ray,19.0,1,False,state,LA
+71035,TC,Chest X-ray,38.0,1,False,state,LA
+71040,,Contrast X -ray of bronchi,168.0,1,False,state,LA
+71040,26,Contrast X -ray of bronchi,63.0,1,False,state,LA
+71040,TC,Contrast X -ray of bronchi,105.0,1,False,state,LA
+71060,,Contrast X -ray of bronchi,238.0,1,False,state,LA
+71060,26,Contrast X -ray of bronchi,80.0,1,False,state,LA
+71060,TC,Contrast X -ray of bronchi,159.0,1,False,state,LA
+71100,,X-ray exam of ribs,66.0,1,False,state,LA
+71100,26,X-ray exam of ribs,24.0,1,False,state,LA
+71100,TC,X-ray exam of ribs,42.0,1,False,state,LA
+71101,,"X-ray exam of ribs, chest",78.0,1,False,state,LA
+71101,26,"X-ray exam of ribs, chest",30.0,1,False,state,LA
+71101,TC,"X-ray exam of ribs, chest",49.0,1,False,state,LA
+71110,,X-ray exam of ribs,87.0,1,False,state,LA
+71110,26,X-ray exam of ribs,30.0,1,False,state,LA
+71110,TC,X-ray exam of ribs,57.0,1,False,state,LA
+71111,,"X-ray exam of ribs, chest",99.0,1,False,state,LA
+71111,26,"X-ray exam of ribs, chest",35.0,1,False,state,LA
+71111,TC,"X-ray exam of ribs, chest",65.0,1,False,state,LA
+71120,,X-ray exam of breastbone,68.0,1,False,state,LA
+71120,26,X-ray exam of breastbone,21.0,1,False,state,LA
+71120,TC,X-ray exam of breastbone,47.0,1,False,state,LA
+71130,,X-ray exam of breastbone,74.0,1,False,state,LA
+71130,26,X-ray exam of breastbone,24.0,1,False,state,LA
+71130,TC,X-ray exam of breastbone,51.0,1,False,state,LA
+71250,,Cat scan of chest,548.0,1,False,state,LA
+71250,26,Cat scan of chest,124.0,1,False,state,LA
+71250,TC,Cat scan of chest,424.0,1,False,state,LA
+71260,,Contrast cat scan of chest,640.0,1,False,state,LA
+71260,26,Contrast cat scan of chest,133.0,1,False,state,LA
+71260,TC,Contrast cat scan of chest,507.0,1,False,state,LA
+71270,,Contrast cat scans of chest,782.0,1,False,state,LA
+71270,26,Contrast cat scans of chest,148.0,1,False,state,LA
+71270,TC,Contrast cat scans of chest,634.0,1,False,state,LA
+71275,26,Ct angiography chest,191.0,1,False,state,LA
+71275,TC,Ct angiography chest,645.0,1,False,state,LA
+71275,,Ct angiography chest,836.0,1,False,state,LA
+71275,26,Ct angiography chest,191.0,1,False,state,LA
+71275,TC,Ct angiography chest,645.0,1,False,state,LA
+71275,,Ct angiography chest,836.0,1,False,state,LA
+71550,,"Magnetic image, chest",976.0,1,False,state,LA
+71550,26,"Magnetic image,  chest",173.0,1,False,state,LA
+71550,TC,"Magnetic image, chest",804.0,1,False,state,LA
+71551,26,Mri chest w/dye,173.0,1,False,state,LA
+71551,TC,Mri chest w/dye,944.0,1,False,state,LA
+71551,,Mri chest w/dye,1117.0,1,False,state,LA
+71551,26,Mri chest w/dye,173.0,1,False,state,LA
+71551,TC,Mri chest w/dye,944.0,1,False,state,LA
+71551,,Mri chest w/dye,1117.0,1,False,state,LA
+71552,26,Mri chest w/o & w/dye,224.0,1,False,state,LA
+71552,TC,Mri chest w/o & w/dye,1165.0,1,False,state,LA
+71552,,Mri chest w/o & w/dye,1389.0,1,False,state,LA
+71552,26,Mri chest w/o & w/dye,224.0,1,False,state,LA
+71552,TC,Mri chest w/o & w/dye,1165.0,1,False,state,LA
+71552,,Mri chest w/o & w/dye,1389.0,1,False,state,LA
+71555,,Magnetic imaging/chest,991.0,1,False,state,LA
+71555,26,Magnetic imaging/chest,187.0,1,False,state,LA
+71555,TC,Magnetic imaging/chest,804.0,1,False,state,LA
+72010,,X-ray exam of spine,122.0,1,False,state,LA
+72010,26,X-ray exam of spine,48.0,1,False,state,LA
+72010,TC,X-ray exam of spine,74.0,1,False,state,LA
+72020,,X-ray exam of spine,47.0,1,False,state,LA
+72020,26,X-ray exam of spine,17.0,1,False,state,LA
+72020,TC,X-ray exam of spine,31.0,1,False,state,LA
+72040,,X-ray exam of neck spine,67.0,1,False,state,LA
+72040,26,X-ray exam of neck spine,24.0,1,False,state,LA
+72040,TC,X-ray exam of neck spine,44.0,1,False,state,LA
+72050,,X-ray exam of neck spine,98.0,1,False,state,LA
+72050,26,X-ray exam of neck spine,33.0,1,False,state,LA
+72050,TC,X-ray exam of neck spine,65.0,1,False,state,LA
+72052,,X-ray exam of neck spine,120.0,1,False,state,LA
+72052,26,X-ray exam of neck spine,39.0,1,False,state,LA
+72052,TC,X-ray exam of neck spine,82.0,1,False,state,LA
+72069,,X-ray exam of trunk spine,59.0,1,False,state,LA
+72069,26,X-ray exam of trunk spine,24.0,1,False,state,LA
+72069,TC,X-ray exam of trunk spine,36.0,1,False,state,LA
+72070,,X-ray exam of thorax spine,70.0,1,False,state,LA
+72070,26,X-ray exam of thorax spine,24.0,1,False,state,LA
+72070,TC,X-ray exam of thorax spine,47.0,1,False,state,LA
+72072,,X-ray exam of thoracic spine,77.0,1,False,state,LA
+72072,26,X-ray exam of thoracic spine,24.0,1,False,state,LA
+72072,TC,X-ray exam of thoracic spine,54.0,1,False,state,LA
+72074,,X-ray exam of thoracic spine,89.0,1,False,state,LA
+72074,26,X-ray exam of thoracic spine,24.0,1,False,state,LA
+72074,TC,X-ray exam of thoracic spine,66.0,1,False,state,LA
+72080,,X-ray exam of trunk spine,72.0,1,False,state,LA
+72080,26,X-ray exam of trunk spine,24.0,1,False,state,LA
+72080,TC,X-ray exam of trunk spine,49.0,1,False,state,LA
+72090,,X-ray exam of trunk spine,79.0,1,False,state,LA
+72090,26,X-ray exam of trunk spine,31.0,1,False,state,LA
+72090,TC,X-ray exam of trunk spine,49.0,1,False,state,LA
+72100,,X-ray exam of lower spine,72.0,1,False,state,LA
+72100,26,X-ray exam of lower spine,24.0,1,False,state,LA
+72100,TC,X-ray exam of lower spine,49.0,1,False,state,LA
+72110,,X-ray exam of lower spine,99.0,1,False,state,LA
+72110,26,X-ray exam of lower spine,33.0,1,False,state,LA
+72110,TC,X-ray exam of lower spine,66.0,1,False,state,LA
+72114,,X-ray exam of lower spine,124.0,1,False,state,LA
+72114,26,X-ray exam of lower spine,39.0,1,False,state,LA
+72114,TC,X-ray exam of lower spine,85.0,1,False,state,LA
+72120,,X-ray exam of lower spine,88.0,1,False,state,LA
+72120,26,X-ray exam of lower spine,24.0,1,False,state,LA
+72120,TC,X-ray exam of lower spine,65.0,1,False,state,LA
+72125,,Cat scan of neck spine,548.0,1,False,state,LA
+72125,26,Cat scan of neck spine,124.0,1,False,state,LA
+72125,TC,Cat scan of neck spine,424.0,1,False,state,LA
+72126,,Contrast cat scan of neck,637.0,1,False,state,LA
+72126,26,Contrast cat scan of neck,130.0,1,False,state,LA
+72126,TC,Contrast cat scan of neck,507.0,1,False,state,LA
+72127,,Contrast cat scans of neck,770.0,1,False,state,LA
+72127,26,Contrast cat scans of neck,136.0,1,False,state,LA
+72127,TC,Contrast cat scans of neck,634.0,1,False,state,LA
+72128,,Cat scan of thorax spine,548.0,1,False,state,LA
+72128,26,Cat scan of thorax spine,124.0,1,False,state,LA
+72128,TC,Cat scan of thorax spine,424.0,1,False,state,LA
+72129,,Contrast cat scan of thorax,637.0,1,False,state,LA
+72129,26,Contrast cat scan of thorax,130.0,1,False,state,LA
+72129,TC,Contrast cat scan of thorax,507.0,1,False,state,LA
+72130,,Contrast cat scans of thorax,770.0,1,False,state,LA
+72130,26,Contrast cat scans of thorax,136.0,1,False,state,LA
+72130,TC,Contrast cat scans of thorax,634.0,1,False,state,LA
+72131,,Cat scan of lower spine,548.0,1,False,state,LA
+72131,26,Cat scan of lower spine,124.0,1,False,state,LA
+72131,TC,Cat scan of lower spine,424.0,1,False,state,LA
+72132,,Contrast cat of lower spine,637.0,1,False,state,LA
+72132,26,Contrast cat of lower spine,130.0,1,False,state,LA
+72132,TC,Contrast cat of lower spine,507.0,1,False,state,LA
+72133,,"Contrast cat scans,low spine",770.0,1,False,state,LA
+72133,26,"Contrast cat scans,low spine",136.0,1,False,state,LA
+72133,TC,"Contrast cat scans,low spine",634.0,1,False,state,LA
+72141,,"Magnetic image, neck spine",976.0,1,False,state,LA
+72141,26,"Magnetic image, neck spine",173.0,1,False,state,LA
+72141,TC,"Magnetic image, neck spine",804.0,1,False,state,LA
+72142,,"Magnetic image, neck spine",1170.0,1,False,state,LA
+72142,26,"Magnetic image, neck spine",206.0,1,False,state,LA
+72142,TC,"Magnetic image, neck spine",964.0,1,False,state,LA
+72146,,"Magnetic image, chest spine",1064.0,1,False,state,LA
+72146,26,"Magnetic image, chest spine",173.0,1,False,state,LA
+72146,TC,"Magnetic image, chest spine",892.0,1,False,state,LA
+72147,,"Magnetic image, chest spine",1170.0,1,False,state,LA
+72147,26,"Magnetic image, chest spine",206.0,1,False,state,LA
+72147,TC,"Magnetic image, chest spine",964.0,1,False,state,LA
+72148,,"Magnetic image, lumbar spine",1051.0,1,False,state,LA
+72148,26,"Magnetic image, lumbar spine",159.0,1,False,state,LA
+72148,TC,"Magnetic image, lumbar spine",892.0,1,False,state,LA
+72149,,"Magnetic image, lumbar spine",1155.0,1,False,state,LA
+72149,26,"Magnetic image, lumbar spine",192.0,1,False,state,LA
+72149,TC,"Magnetic image, lumbar spine",964.0,1,False,state,LA
+72156,,"Magnetic image, neck spine",2060.0,1,False,state,LA
+72156,26,"Magnetic image, neck spine",276.0,1,False,state,LA
+72156,TC,"Magnetic image, neck spine",1785.0,1,False,state,LA
+72157,,"Magnetic image, chest spine",2060.0,1,False,state,LA
+72157,26,"Magnetic image, chest spine",276.0,1,False,state,LA
+72157,TC,"Magnetic image, chest spine",1785.0,1,False,state,LA
+72158,,"Magnetic image, lumbar spine",2039.0,1,False,state,LA
+72158,26,"Magnetic image, lumbar spine",255.0,1,False,state,LA
+72158,TC,"Magnetic image, lumbar spine",1785.0,1,False,state,LA
+72159,,Magnetic imaging/spine,1074.0,1,False,state,LA
+72159,26,Magnetic imaging/spine,182.0,1,False,state,LA
+72159,TC,Magnetic imaging/spine,892.0,1,False,state,LA
+72170,,X-ray exam of pelvis,56.0,1,False,state,LA
+72170,26,X-ray exam of pelvis,18.0,1,False,state,LA
+72170,TC,X-ray exam of pelvis,38.0,1,False,state,LA
+72190,,X-ray exam of pelvis,71.0,1,False,state,LA
+72190,26,X-ray exam of pelvis,23.0,1,False,state,LA
+72190,TC,X-ray exam of pelvis,49.0,1,False,state,LA
+72191,26,Ct angiograph pelv w/o&w/dye,181.0,1,False,state,LA
+72191,TC,Ct angiograph pelv w/o&w/dye,703.0,1,False,state,LA
+72191,,Ct angiograph pelv w/o&w/dye,885.0,1,False,state,LA
+72191,26,Ct angiograph pelv w/o&w/dye,181.0,1,False,state,LA
+72191,TC,Ct angiograph pelv w/o&w/dye,703.0,1,False,state,LA
+72191,,Ct angiograph pelv w/o &w/dye,885.0,1,False,state,LA
+72192,,Cat scan of pelvis,540.0,1,False,state,LA
+72192,26,Cat scan of pelvis,117.0,1,False,state,LA
+72192,TC,Cat scan of pelvis,424.0,1,False,state,LA
+72193,,Contrast cat scan of pelvis,614.0,1,False,state,LA
+72193,26,Contrast cat scan of pelvis,124.0,1,False,state,LA
+72193,TC,Contrast cat scan of pelvis,490.0,1,False,state,LA
+72194,,Contrast cat scans of pelvis,738.0,1,False,state,LA
+72194,26,Contrast cat scans of pelvis,130.0,1,False,state,LA
+72194,TC,Contrast cat scans of pelvis,609.0,1,False,state,LA
+72195,26,Mri pelvis w/o dye,147.0,1,False,state,LA
+72195,TC,Mri pelvis w/o dye,749.0,1,False,state,LA
+72195,,Mri pelvis w/o dye,896.0,1,False,state,LA
+72196,,"Magnetic image, pelvis",976.0,1,False,state,LA
+72196,26,"Magnetic image, pelvis",173.0,1,False,state,LA
+72196,TC,"Magnetic image, pelvis",804.0,1,False,state,LA
+72197,26,Mri pelvis w/o & w/dye,224.0,1,False,state,LA
+72197,TC,Mri pelvis w/o & w/dye,987.0,1,False,state,LA
+72197,,Mri pelvis w/o & w/dye,1211.0,1,False,state,LA
+72198,,Magnetic imaging/pelvis(mri),990.0,1,False,state,LA
+72198,26,Magnetic imaging/pelvis(mri),187.0,1,False,state,LA
+72198,TC,Magnetic imaging/pelvis(mri),804.0,1,False,state,LA
+72200,,X-ray exam sacroiliac joints,56.0,1,False,state,LA
+72200,26,X-ray exam sacroiliac joints,19.0,1,False,state,LA
+72200,TC,X-ray exam sacroiliac joints,38.0,1,False,state,LA
+72202,,X-ray exam sacroiliac joints,66.0,1,False,state,LA
+72202,26,X-ray exam sacroiliac joints,21.0,1,False,state,LA
+72202,TC,X-ray exam sacroiliac joints,45.0,1,False,state,LA
+72220,,X-ray exam of tailbone,60.0,1,False,state,LA
+72220,26,X-ray exam of tailbone,19.0,1,False,state,LA
+72220,TC,X-ray exam of tailbone,42.0,1,False,state,LA
+72240,,Contrast X -ray of neck spine,438.0,1,False,state,LA
+72240,26,Contrast X -ray of neck spine,98.0,1,False,state,LA
+72240,TC,Contrast X -ray of neck spine,341.0,1,False,state,LA
+72255,,Contrast X -ray thorax spine,409.0,1,False,state,LA
+72255,26,Contrast X -ray thorax spine,98.0,1,False,state,LA
+72255,TC,Contrast X -ray thorax spine,311.0,1,False,state,LA
+72265,,Contrast X -ray lower spine,382.0,1,False,state,LA
+72265,26,Contrast X -ray lower spine,90.0,1,False,state,LA
+72265,TC,Contrast X -ray lower spine,292.0,1,False,state,LA
+72270,,Contrast X -ray of spine,579.0,1,False,state,LA
+72270,26,Contrast X -ray of spine,143.0,1,False,state,LA
+72270,TC,Contrast X -ray of spine,437.0,1,False,state,LA
+72275,,Epidurography.........    BR,72275.0,1,False,state,LA
+72275,TC,Epidurography.........    BR,72285.0,1,False,state,LA
+72285,26,X-ray c/t spine disk..,87.0,1,False,state,LA
+72285,TC,X-ray c/t spine disk..,626.0,1,False,state,LA
+72291,,Perq verte/sacroplsty fluor,147.0,1,False,state,LA
+72292,,Perq verte/sacroplsty ct,149.0,1,False,state,LA
+72295,,X-ray of lower spine disk,653.0,1,False,state,LA
+72295,26,X-ray of lower spine disk,90.0,1,False,state,LA
+72295,TC,X-ray of lower spine disk,563.0,1,False,state,LA
+73000,,X-ray exam of collarbone,55.0,1,False,state,LA
+73000,26,X-ray exam of collarbone,17.0,1,False,state,LA
+73000,TC,X-ray exam of collarbone,38.0,1,False,state,LA
+73010,,X-ray exam of shoulder blade,56.0,1,False,state,LA
+73010,26,X-ray exam of shoulder blade,19.0,1,False,state,LA
+73010,TC,X-ray exam of shoulder blade,38.0,1,False,state,LA
+73020,,X-ray exam of shoulder,51.0,1,False,state,LA
+73020,26,X-ray exam of shoulder,17.0,1,False,state,LA
+73020,TC,X-ray exam of shoulder,35.0,1,False,state,LA
+73030,,X-ray exam of shoulder,61.0,1,False,state,LA
+73030,26,X-ray exam of shoulder,19.0,1,False,state,LA
+73030,TC,X-ray exam of shoulder,42.0,1,False,state,LA
+73040,,Contrast X -ray of shoulder,210.0,1,False,state,LA
+73040,26,Contrast X -ray of shoulder,59.0,1,False,state,LA
+73040,TC,Contrast X -ray of shoulder,151.0,1,False,state,LA
+73050,,X-ray exam of shoulders,70.0,1,False,state,LA
+73050,26,X-ray exam of shoulders,21.0,1,False,state,LA
+73050,TC,X-ray exam of shoulders,49.0,1,False,state,LA
+73060,,X-ray exam of humerus,60.0,1,False,state,LA
+73060,26,X-ray exam of humerus,19.0,1,False,state,LA
+73060,TC,X-ray exam of humerus,42.0,1,False,state,LA
+73070,,X-ray exam of elbow,54.0,1,False,state,LA
+73070,26,X-ray exam of elbow,17.0,1,False,state,LA
+73070,TC,X-ray exam of elbow,38.0,1,False,state,LA
+73080,,X-ray exam of elbow,60.0,1,False,state,LA
+73080,26,X-ray exam of elbow,19.0,1,False,state,LA
+73080,TC,X-ray exam of elbow,42.0,1,False,state,LA
+73085,,Contrast X -ray of elbow,210.0,1,False,state,LA
+73085,26,Contrast X -ray of elbow,59.0,1,False,state,LA
+73085,TC,Contrast X -ray of elbow,151.0,1,False,state,LA
+73090,,X-ray exam of forearm,55.0,1,False,state,LA
+73090,26,X-ray exam of forearm,17.0,1,False,state,LA
+73090,TC,X-ray exam of forearm,38.0,1,False,state,LA
+73092,,"X-ray exam of arm, infant",53.0,1,False,state,LA
+73092,26,"X-ray exam of arm, infant",17.0,1,False,state,LA
+73092,TC,"X-ray exam of arm, infant",36.0,1,False,state,LA
+73100,,X-ray exam of wrist,53.0,1,False,state,LA
+73100,26,X-ray exam of wrist,17.0,1,False,state,LA
+73100,TC,X-ray exam of wrist,36.0,1,False,state,LA
+73110,,X-ray exam of wrist,57.0,1,False,state,LA
+73110,26,X-ray exam of wrist,19.0,1,False,state,LA
+73110,TC,X-ray exam of wrist,39.0,1,False,state,LA
+73115,,Contrast X -ray of wrist,173.0,1,False,state,LA
+73115,26,Contrast X -ray of wrist,59.0,1,False,state,LA
+73115,TC,Contrast X -ray of wrist,114.0,1,False,state,LA
+73120,,X-ray exam of hand,53.0,1,False,state,LA
+73120,26,X-ray exam of hand,17.0,1,False,state,LA
+73120,TC,X-ray exam of hand,36.0,1,False,state,LA
+73130,,X-ray exam of hand,57.0,1,False,state,LA
+73130,26,X-ray exam of hand,19.0,1,False,state,LA
+73130,TC,X-ray exam of hand,39.0,1,False,state,LA
+73140,,X-ray exam of finger(s),45.0,1,False,state,LA
+73140,26,X-ray exam of finger(s),14.0,1,False,state,LA
+73140,TC,X-ray exam of finger(s),31.0,1,False,state,LA
+73200,,Cat scan of arm,472.0,1,False,state,LA
+73200,26,Cat scan of arm,117.0,1,False,state,LA
+73200,TC,Cat scan of arm,356.0,1,False,state,LA
+73201,,Contrast cat scan of arm,548.0,1,False,state,LA
+73201,26,Contrast cat scan of arm,124.0,1,False,state,LA
+73201,TC,Contrast cat scan of arm,424.0,1,False,state,LA
+73202,,Contrast cat scans of arm,663.0,1,False,state,LA
+73202,26,Contrast cat scans of arm,130.0,1,False,state,LA
+73202,TC,Contrast cat scans of arm,533.0,1,False,state,LA
+73206,26,Ct angio upr extrm w/o&w/dye,179.0,1,False,state,LA
+73206,TC,Ct angio upr extrm w/o&w/dye,578.0,1,False,state,LA
+73206,,Ct angio upr extrm w/o&w/dye,757.0,1,False,state,LA
+73218,26,Mri upper extremity w/o dye,135.0,1,False,state,LA
+73218,TC,Mri upper extremity w/o dye,749.0,1,False,state,LA
+73218,,Mri upper extremity w/o dye,884.0,1,False,state,LA
+73219,26,Mri upper extremity w/dye,162.0,1,False,state,LA
+73219,TC,Mri upper extremity w/dye,815.0,1,False,state,LA
+73219,,Mri upper extremity w/dye,977.0,1,False,state,LA
+73220,,"Magnetic image, arm, hand",963.0,1,False,state,LA
+73220,26,"Magnetic image, arm, hand",159.0,1,False,state,LA
+73220,TC,"Magnetic image, arm, hand",804.0,1,False,state,LA
+73221,,"Magnetic image, joint of arm",906.0,1,False,state,LA
+73221,26,"Magnetic image, joint of arm",102.0,1,False,state,LA
+73221,TC,"Magnetic image, joint of arm",804.0,1,False,state,LA
+73222,26,Mri joint upr extrem w/dye,162.0,1,False,state,LA
+73222,TC,Mri joint upr extrem w/dye,749.0,1,False,state,LA
+73222,,Mri joint upr extrem w/dye,911.0,1,False,state,LA
+73223,26,Mri joint upr extr w/o&w/dye,215.0,1,False,state,LA
+73223,TC,Mri joint upr extr w/o&w/dye,914.0,1,False,state,LA
+73223,,Mri joint upr extr w/o&w/dye,1129.0,1,False,state,LA
+73225,,Magnetic imaging/upper,980.0,1,False,state,LA
+73225,26,Magnetic imaging/upper,177.0,1,False,state,LA
+73225,TC,Magnetic imaging/upper,804.0,1,False,state,LA
+73500,,X-ray exam of hip,53.0,1,False,state,LA
+73500,26,X-ray exam of hip,19.0,1,False,state,LA
+73500,TC,X-ray exam of hip,35.0,1,False,state,LA
+73510,,X-ray exam of hip,64.0,1,False,state,LA
+73510,26,X-ray exam of hip,23.0,1,False,state,LA
+73510,TC,X-ray exam of hip,42.0,1,False,state,LA
+73520,,X-ray exam of hips,77.0,1,False,state,LA
+73520,26,X-ray exam of hips,28.0,1,False,state,LA
+73520,TC,X-ray exam of hips,49.0,1,False,state,LA
+73525,,Contrast X -ray of hip,210.0,1,False,state,LA
+73525,26,Contrast X -ray of hip,59.0,1,False,state,LA
+73525,TC,Contrast X -ray of hip,151.0,1,False,state,LA
+73530,,X-ray exam of hip,69.0,1,False,state,LA
+73530,26,X-ray exam of hip,31.0,1,False,state,LA
+73530,TC,X-ray exam of hip,38.0,1,False,state,LA
+73540,,X-ray exam of pelvis & hips,63.0,1,False,state,LA
+73540,26,X-ray exam of pelvis & hips,22.0,1,False,state,LA
+73540,TC,X-ray exam of pelvis & hips,42.0,1,False,state,LA
+73550,,X-ray exam of thigh,60.0,1,False,state,LA
+73550,26,X-ray exam of thigh,19.0,1,False,state,LA
+73550,TC,X-ray exam of thigh,42.0,1,False,state,LA
+73560,,"X-ray exam of knee, 1 or 2",56.0,1,False,state,LA
+73560,26,"X-ray exam of knee, 1 or 2",18.0,1,False,state,LA
+73560,TC,"X-ray exam of knee, 1 or 2",39.0,1,False,state,LA
+73562,,"X-ray exam of knee, 3",62.0,1,False,state,LA
+73562,26,"X-ray exam of knee, 3",20.0,1,False,state,LA
+73562,TC,"X-ray exam of knee, 3",43.0,1,False,state,LA
+73564,,"X-ray exam, knee, 4 or more",70.0,1,False,state,LA
+73564,26,"X-ray exam, knee, 4 or more",24.0,1,False,state,LA
+73564,TC,"X-ray exam, knee, 4 or more",46.0,1,False,state,LA
+73565,,X-ray exam of knee,54.0,1,False,state,LA
+73565,26,X-ray exam of knee,18.0,1,False,state,LA
+73565,TC,X-ray exam of knee,36.0,1,False,state,LA
+73580,,Contrast X -ray of knee joint,248.0,1,False,state,LA
+73580,26,Contrast X -ray of knee joint,59.0,1,False,state,LA
+73580,TC,Contrast X -ray of knee joint,189.0,1,False,state,LA
+73590,,X-ray exam of lower leg,56.0,1,False,state,LA
+73590,26,X-ray exam of lower leg,18.0,1,False,state,LA
+73590,TC,X-ray exam of lower leg,38.0,1,False,state,LA
+73592,,"X-ray exam of leg, infant",53.0,1,False,state,LA
+73592,26,"X-ray exam of leg, infant",17.0,1,False,state,LA
+73592,TC,"X-ray exam of leg, infant",36.0,1,False,state,LA
+73600,,X-ray exam of ankle,53.0,1,False,state,LA
+73600,26,X-ray exam of ankle,17.0,1,False,state,LA
+73600,TC,X-ray exam of ankle,36.0,1,False,state,LA
+73610,,X-ray exam of ankle,57.0,1,False,state,LA
+73610,26,X-ray exam of ankle,19.0,1,False,state,LA
+73610,TC,X-ray exam of ankle,39.0,1,False,state,LA
+73615,,Contrast X -ray of ankle,210.0,1,False,state,LA
+73615,26,Contrast X -ray of ankle,59.0,1,False,state,LA
+73615,TC,Contrast X -ray of ankle,151.0,1,False,state,LA
+73620,,X-ray exam of foot,53.0,1,False,state,LA
+73620,26,X-ray exam of foot,17.0,1,False,state,LA
+73620,TC,X-ray exam of foot,36.0,1,False,state,LA
+73630,,X-ray exam of foot,57.0,1,False,state,LA
+73630,26,X-ray exam of foot,19.0,1,False,state,LA
+73630,TC,X-ray exam of foot,39.0,1,False,state,LA
+73650,,X-ray exam of heel,52.0,1,False,state,LA
+73650,26,X-ray exam of heel,17.0,1,False,state,LA
+73650,TC,X-ray exam of heel,35.0,1,False,state,LA
+73660,,X-ray exam of toe(s)..,45.0,1,False,state,LA
+73660,26,X-ray exam of toe(s)..,14.0,1,False,state,LA
+73660,TC,X-ray exam of toe(s)..,31.0,1,False,state,LA
+73700,,Cat scan of leg,472.0,1,False,state,LA
+73700,26,Cat scan of leg,117.0,1,False,state,LA
+73700,TC,Cat scan of leg,356.0,1,False,state,LA
+73701,,Contrast cat scan of leg,548.0,1,False,state,LA
+73701,26,Contrast cat scan of leg,124.0,1,False,state,LA
+73701,TC,Contrast cat scan of leg,424.0,1,False,state,LA
+73702,,Contrast cat scans of  leg,663.0,1,False,state,LA
+73702,26,Contrast cat scans of leg,130.0,1,False,state,LA
+73702,TC,Contrast cat scans of leg,533.0,1,False,state,LA
+73706,26,Ct angio lwr extr w/o&w/dye,189.0,1,False,state,LA
+73706,TC,Ct angio lwr extr w/o&w/dye,656.0,1,False,state,LA
+73706,,Ct angio lwr extr w/o&w/dye,845.0,1,False,state,LA
+73718,26,Mri lower extremity w/o dye,135.0,1,False,state,LA
+73718,TC,Mri lower extremity w/o dye,739.0,1,False,state,LA
+73718,,Mri lower extremity w/o dye,874.0,1,False,state,LA
+73719,26,Mri lower extremity w/dye,162.0,1,False,state,LA
+73719,TC,Mri lower extremity w/dye,824.0,1,False,state,LA
+73719,,Mri lower extremity w/dye,986.0,1,False,state,LA
+73720,,"Magnetic image, leg, foot",963.0,1,False,state,LA
+73720,26,"Magnetic image, leg, foot",159.0,1,False,state,LA
+73720,TC,"Magnetic image, leg, foot",804.0,1,False,state,LA
+73721,,"Magnetic image, joint of leg",906.0,1,False,state,LA
+73721,26,"Magnetic image, joint of leg",102.0,1,False,state,LA
+73721,TC,"Magnetic image, joint of leg",804.0,1,False,state,LA
+73722,26,Mri joint of lwr extr w/dye,164.0,1,False,state,LA
+73722,TC,Mri joint of lwr extr w/dye,774.0,1,False,state,LA
+73722,,Mri joint of lwr extr w/dye,937.0,1,False,state,LA
+73723,26,Mri joint lwr extr w/o&w/dye,214.0,1,False,state,LA
+73723,TC,Mri joint lwr extr w/o&w/dye,919.0,1,False,state,LA
+73723,,Mri joint lwr extr w/o&w/dye,1133.0,1,False,state,LA
+73725,,Magnetic imaging/lower (MRI),987.0,1,False,state,LA
+73725,26,Magnetic imaging/lower (MRI),183.0,1,False,state,LA
+73725,TC,Magnetic imaging/lower (MRI),804.0,1,False,state,LA
+74000,,X-ray exam of abdomen,57.0,1,False,state,LA
+74000,26,X-ray exam of abdomen,19.0,1,False,state,LA
+74000,TC,X-ray exam of abdomen,38.0,1,False,state,LA
+74010,,X-ray exam of abdomen,67.0,1,False,state,LA
+74010,26,X-ray exam of abdomen,26.0,1,False,state,LA
+74010,TC,X-ray exam of abdomen,42.0,1,False,state,LA
+74020,,X-ray exam of abdomen,75.0,1,False,state,LA
+74020,26,X-ray exam of abdomen,30.0,1,False,state,LA
+74020,TC,X-ray exam of abdomen,45.0,1,False,state,LA
+74022,,"X-ray exam series, abdomen",88.0,1,False,state,LA
+74022,26,"X-ray exam series, abdomen",35.0,1,False,state,LA
+74022,TC,"X-ray exam series, abdomen",54.0,1,False,state,LA
+74150,,Cat scan of abdomen,533.0,1,False,state,LA
+74150,26,Cat scan of abdomen,127.0,1,False,state,LA
+74150,TC,Cat scan of abdomen,406.0,1,False,state,LA
+74160,,Contrast cat scan of abdomen,626.0,1,False,state,LA
+74160,26,Contrast cat scan of abdomen,136.0,1,False,state,LA
+74160,TC,Contrast cat scan of abdomen,490.0,1,False,state,LA
+74170,,"Contrast cat scans, abdomen",759.0,1,False,state,LA
+74170,26,"Contrast cat scans, abdomen",151.0,1,False,state,LA
+74170,TC,"Contrast cat scans, abdomen",609.0,1,False,state,LA
+74174,26,Ct angio abd&pelv w/o&w/dye,220.0,1,False,state,LA
+74174,TC,Ct angio abd&pelv w/o&w/dye,936.0,1,False,state,LA
+74174,,Ct angio abd&pelv w/o&w/dye,1156.0,1,False,state,LA
+74175,26,Ct angio abdom w/o & w/dye,190.0,1,False,state,LA
+74175,TC,Ct angio abdom w/o & w/dye,752.0,1,False,state,LA
+74175,,Ct angio abdom w/o & w/dye,941.0,1,False,state,LA
+74176,26,Ct abd & pelvis,174.0,1,False,state,LA
+74176,TC,Ct abd & pelvis,293.0,1,False,state,LA
+74176,,Ct abd & pelvis,467.0,1,False,state,LA
+74177,26,Ct abd & pelv w/contrast,181.0,1,False,state,LA
+74177,TC,Ct abd & pelv w/contrast,555.0,1,False,state,LA
+74177,,Ct abd & pelv w/contrast,736.0,1,False,state,LA
+74178,26,Ct abd & pelv 1/> regns,201.0,1,False,state,LA
+74178,TC,Ct abd & pelv 1/> regns,733.0,1,False,state,LA
+74178,,Ct abd & pelv 1/> regns,935.0,1,False,state,LA
+74181,,"Magnetic image, abdomen (MRI)",976.0,1,False,state,LA
+74181,26,"Magnetic image, abdomen (MRI)",173.0,1,False,state,LA
+74181,TC,"Magnetic image, abdomen (MRI)",804.0,1,False,state,LA
+74182,26,Mri abdomen w/dye,172.0,1,False,state,LA
+74182,TC,Mri abdomen w/dye,918.0,1,False,state,LA
+74182,,Mri abdomen w/dye,1090.0,1,False,state,LA
+74183,26,Mri abdomen w/o & w/dye,224.0,1,False,state,LA
+74183,TC,Mri abdomen w/o & w/dye,991.0,1,False,state,LA
+74183,,Mri abdomen w/o & w/dye,1215.0,1,False,state,LA
+74185,,"Magnetic image, abdomen (MRI)",990.0,1,False,state,LA
+74185,26,"Magnetic image, abdomen (MRI)",187.0,1,False,state,LA
+74185,TC,"Magnetic image, abdomen (MRI)",804.0,1,False,state,LA
+74190,,X-ray exam of peritoneum,126.0,1,False,state,LA
+74190,26,X-ray exam of peritoneum,33.0,1,False,state,LA
+74190,TC,X-ray exam of peritoneum,94.0,1,False,state,LA
+74210,,Contrast X -ray exam of throat,123.0,1,False,state,LA
+74210,26,Contrast X -ray exam of throat,38.0,1,False,state,LA
+74210,TC,Contrast X -ray exam of throat,85.0,1,False,state,LA
+74220,,"Contrast X -ray exam, esophagus",135.0,1,False,state,LA
+74220,26,"Contrast X -ray exam, esophagus",50.0,1,False,state,LA
+74220,TC,"Contrast X -ray exam, esophagus",85.0,1,False,state,LA
+74230,,Cinema X -ray throat/esophagus,152.0,1,False,state,LA
+74230,26,Cinema X -ray throat/esophagus,59.0,1,False,state,LA
+74230,TC,Cinema X -ray throat/esophagus,94.0,1,False,state,LA
+74235,,Remove esophagus obstruction,316.0,1,False,state,LA
+74235,26,Remove esophagus obstruction,127.0,1,False,state,LA
+74235,TC,Remove esophagus obstruction,189.0,1,False,state,LA
+74240,,X-ray exam upper gi tract,180.0,1,False,state,LA
+74240,26,X-ray exam upper gi tract,75.0,1,False,state,LA
+74240,TC,X-ray exam upper gi tract,105.0,1,False,state,LA
+74241,,X-ray exam upper gi tract,182.0,1,False,state,LA
+74241,26,X-ray exam upper gi tract,75.0,1,False,state,LA
+74241,TC,X-ray exam upper gi tract,108.0,1,False,state,LA
+74245,,X-ray exam upper gi tract,269.0,1,False,state,LA
+74245,26,X-ray exam upper gi tract,98.0,1,False,state,LA
+74245,TC,X-ray exam upper gi tract,172.0,1,False,state,LA
+74246,,Contrast X -ray upper gi tract,194.0,1,False,state,LA
+74246,26,Contrast X -ray upper gi tract,75.0,1,False,state,LA
+74246,TC,Contrast X -ray upper gi tract,119.0,1,False,state,LA
+74247,,Contrast X -ray upper gi tract,196.0,1,False,state,LA
+74247,26,Contrast X -ray upper gi tract,75.0,1,False,state,LA
+74247,TC,Contrast X -ray upper gi tract,122.0,1,False,state,LA
+74249,,Contrast X -ray upper gi tract,283.0,1,False,state,LA
+74249,26,Contrast X -ray upper gi tract,98.0,1,False,state,LA
+74249,TC,Contrast X -ray upper gi tract,185.0,1,False,state,LA
+74250,,X-ray exam of small bowel,144.0,1,False,state,LA
+74250,26,X-ray exam of small bowel,51.0,1,False,state,LA
+74250,TC,X-ray exam of small bowel,94.0,1,False,state,LA
+74251,,X-ray exam of small bowel,144.0,1,False,state,LA
+74251,26,X-ray exam of small bowel,51.0,1,False,state,LA
+74251,TC,X-ray exam of small bowel,94.0,1,False,state,LA
+74260,,X-ray exam of small bowel,161.0,1,False,state,LA
+74260,26,X-ray exam of small bowel,54.0,1,False,state,LA
+74260,TC,X-ray exam of small bowel,108.0,1,False,state,LA
+74261,26,Ct colonography dx,239.0,1,False,state,LA
+74261,TC,Ct colonography dx,874.0,1,False,state,LA
+74261,,Ct colonography dx,1113.0,1,False,state,LA
+74262,26,Ct colonography dx w/dye,254.0,1,False,state,LA
+74262,TC,Ct colonography dx w/dye,1045.0,1,False,state,LA
+74262,,Ct colonography dx w/dye,1298.0,1,False,state,LA
+74263,26,Ct colonography screening,236.0,1,False,state,LA
+74263,TC,Ct colonography screening,1426.0,1,False,state,LA
+74263,,Ct colonography screening,1662.0,1,False,state,LA
+74270,,Contrast X -ray exam of colon,198.0,1,False,state,LA
+74270,26,Contrast X -ray exam of colon,75.0,1,False,state,LA
+74270,TC,Contrast X -ray exam of colon,123.0,1,False,state,LA
+74280,,Contrast X -ray exam of colon,267.0,1,False,state,LA
+74280,26,Contrast X -ray exam of colon,107.0,1,False,state,LA
+74280,TC,Contrast X -ray exam of colon,161.0,1,False,state,LA
+74283,,Contrast X -ray exam of colon,402.0,1,False,state,LA
+74283,26,Contrast X -ray exam of colon,210.0,1,False,state,LA
+74283,TC,Contrast X -ray exam of colon,192.0,1,False,state,LA
+74290,,"Contrast X -ray, gallbladder",88.0,1,False,state,LA
+74290,26,"Contrast X -ray, gallbladder",35.0,1,False,state,LA
+74290,TC,"Contrast X -ray, gallbladder",54.0,1,False,state,LA
+74291,,"Contrast X-ray, gallbladder",52.0,1,False,state,LA
+74291,26,"Contrast X -ray, gallbladder",21.0,1,False,state,LA
+74291,TC,"Contrast X -ray, gallbladder",31.0,1,False,state,LA
+74300,,"X-ray bile ducts, pancreas",47.0,1,False,state,LA
+74300,26,"X-ray bile ducts, pancreas",39.0,1,False,state,LA
+74300,TC,"X-ray bile ducts, pancreas   BR",74301.0,1,False,state,LA
+74301,26,X-rays at surgery add - on,22.0,1,False,state,LA
+74301,TC,X-rays at surgery add - on   BR,74301.0,1,False,state,LA
+74305,,"X-ray bile ducts, pancreas",102.0,1,False,state,LA
+74305,26,"X-ray bile ducts, pancreas",45.0,1,False,state,LA
+74305,TC,"X-ray bile ducts, pancreas",57.0,1,False,state,LA
+74320,,Contrast X -ray of bile ducts,285.0,1,False,state,LA
+74320,26,Contrast X -ray of bile ducts,59.0,1,False,state,LA
+74320,TC,Contrast x -ray of bile ducts,226.0,1,False,state,LA
+74327,,X-ray for bile stone removal,203.0,1,False,state,LA
+74327,26,X-ray for bile stone removal,76.0,1,False,state,LA
+74327,TC,X-ray for bile stone removal,127.0,1,False,state,LA
+74328,,Xray for bile duct endoscopy,301.0,1,False,state,LA
+74328,26,Xray for bile duct endoscopy,76.0,1,False,state,LA
+74328,TC,Xray for bile  duct endoscopy,226.0,1,False,state,LA
+74329,,X-ray for pancreas endoscopy,301.0,1,False,state,LA
+74329,26,X-ray for pancreas endoscopy,76.0,1,False,state,LA
+74329,TC,X-ray for pancreas endoscopy,226.0,1,False,state,LA
+74330,,"Xray,bile/pancreas endoscopy",301.0,1,False,state,LA
+74330,26,"Xray,bile/pancreas endoscopy",76.0,1,False,state,LA
+74330,TC,"Xray,bile/pancreas endoscopy",226.0,1,False,state,LA
+74340,,X-ray guide for gi tube,248.0,1,False,state,LA
+74340,26,X-ray guide for gi tube,59.0,1,False,state,LA
+74340,TC,X-ray guide for gi tube,189.0,1,False,state,LA
+74355,,"X-ray guide, intestinal tube",271.0,1,False,state,LA
+74355,26,"X-ray guide, intestinal tube",82.0,1,False,state,LA
+74355,TC,"X-ray guide, intestinal tube",189.0,1,False,state,LA
+74360,,"X-ray guide, gi dilation",285.0,1,False,state,LA
+74360,26,"X-ray guide, gi dilation",59.0,1,False,state,LA
+74360,TC,"X-ray guide, gi dilation",226.0,1,False,state,LA
+74363,,"X-ray, bile duct dilation",532.0,1,False,state,LA
+74363,26,"X-ray, bile duct dilation",95.0,1,False,state,LA
+74363,TC,"X-ray, bile duct dilation",437.0,1,False,state,LA
+74400,,Contrast X -ray urinary tract,174.0,1,False,state,LA
+74400,26,Contrast X -ray urinary tract,53.0,1,False,state,LA
+74400,TC,Contrast X -ray urinary tract,122.0,1,False,state,LA
+74410,,Contrast X -ray urinary tract,193.0,1,False,state,LA
+74410,26,Contrast X -ray urinary tract,53.0,1,False,state,LA
+74410,TC,Contrast X -ray urinary tract,140.0,1,False,state,LA
+74415,,Contrast X -ray urinary tract,205.0,1,False,state,LA
+74415,26,Contrast X -ray urinary tract,53.0,1,False,state,LA
+74415,TC,Contrast X -ray urinary tract,152.0,1,False,state,LA
+74420,,Contrast X -ray urinary tract,227.0,1,False,state,LA
+74420,26,Contrast X -ray urinary tract,38.0,1,False,state,LA
+74420,TC,Contrast X -ray urinary tract,189.0,1,False,state,LA
+74425,,Contrast X -ray urinary tract,131.0,1,False,state,LA
+74425,26,Contrast X -ray urinary tract,38.0,1,False,state,LA
+74425,TC,Contrast X -ray urinary tract,94.0,1,False,state,LA
+74430,,Contrast X -ray of bladder,110.0,1,False,state,LA
+74430,26,Contrast X -ray of bladder,35.0,1,False,state,LA
+74430,TC,Contrast X -ray of bladder,76.0,1,False,state,LA
+74440,,X-ray exam male genital tract,122.0,1,False,state,LA
+74440,26,X-ray exam male genital tract,41.0,1,False,state,LA
+74440,TC,X-ray exam male genital tract,82.0,1,False,state,LA
+74445,,X-ray exam of penis,203.0,1,False,state,LA
+74445,26,X-ray exam of penis,122.0,1,False,state,LA
+74445,TC,X-ray exam of penis,82.0,1,False,state,LA
+74450,,X-ray exam urethra/bladder,140.0,1,False,state,LA
+74450,26,X-ray exam urethra/bladder,35.0,1,False,state,LA
+74450,TC,X-ray exam urethra/bladder,105.0,1,False,state,LA
+74455,,X-ray exam urethra/bladder,149.0,1,False,state,LA
+74455,26,X-ray exam urethra/bladder,35.0,1,False,state,LA
+74455,TC,X-ray exam urethra/bladder,114.0,1,False,state,LA
+74470,,X-ray exam of kidney lesion,149.0,1,False,state,LA
+74470,26,X-ray exam of kidney lesion,59.0,1,False,state,LA
+74470,TC,X-ray exam of kidney lesion,90.0,1,False,state,LA
+74475,,X-ray control catheter insert,351.0,1,False,state,LA
+74475,26,X-ray control catheter insert,59.0,1,False,state,LA
+74475,TC,X-ray control catheter insert,292.0,1,False,state,LA
+74480,,X-ray control catheter insert,351.0,1,False,state,LA
+74480,26,X-ray control catheter insert,59.0,1,False,state,LA
+74480,TC,X-ray control catheter insert,292.0,1,False,state,LA
+74485,,"X-ray guide, gu dilation",285.0,1,False,state,LA
+74485,26,"X-ray guide, gu dilation",59.0,1,False,state,LA
+74485,TC,"X-ray guide, gu dilation",226.0,1,False,state,LA
+74710,,X-ray measurement of,112.0,1,False,state,LA
+74710,26,X-ray measurement of,37.0,1,False,state,LA
+74710,TC,X-ray measurement of,76.0,1,False,state,LA
+74740,,X-ray female genital tract,134.0,1,False,state,LA
+74740,26,X-ray female genital tract,41.0,1,False,state,LA
+74740,TC,X-ray female genital tract,94.0,1,False,state,LA
+74742,,X-ray fallopian tube,290.0,1,False,state,LA
+74742,26,X-ray fallopian tube,64.0,1,False,state,LA
+74742,TC,X-ray fallopian tube,226.0,1,False,state,LA
+74775,,X-ray exam of perineum,173.0,1,False,state,LA
+74775,26,X-ray exam of perineum,68.0,1,False,state,LA
+74775,TC,X-ray exam of perineum,105.0,1,False,state,LA
+75557,26,Cardiac mri for morph,234.0,1,False,state,LA
+75557,TC,Cardiac mri for morph,534.0,1,False,state,LA
+75557,,Cardiac mri for morph,768.0,1,False,state,LA
+75559,26,Cardiac mri w/stress img,291.0,1,False,state,LA
+75559,TC,Cardiac mri w/stress img,770.0,1,False,state,LA
+75559,,Cardiac mri w/stress img,1062.0,1,False,state,LA
+75561,26,Cardiac mri for morph w/dye,258.0,1,False,state,LA
+75561,TC,Cardiac mri for morph w/dye,768.0,1,False,state,LA
+75561,,Cardiac mri for morph w/dye,1026.0,1,False,state,LA
+75563,26,Card mri w/stress img & dye,298.0,1,False,state,LA
+75563,TC,Card mri w/stress img & dye,916.0,1,False,state,LA
+75563,,Card mri w/stress img & dye,1214.0,1,False,state,LA
+75565,26,Card mri veloc flow mapping,25.0,1,False,state,LA
+75565,TC,Card mri veloc flow mapping,111.0,1,False,state,LA
+75565,,Card mri veloc flow mapping,136.0,1,False,state,LA
+75571,26,Ct hrt w/o dye w/ca test,57.0,1,False,state,LA
+75571,TC,Ct hrt w/o dye w/ca test,179.0,1,False,state,LA
+75571,,Ct hrt w/o dye w/ca test,235.0,1,False,state,LA
+75572,26,Ct hrt w/3d image,172.0,1,False,state,LA
+75572,TC,Ct hrt w/3d image,473.0,1,False,state,LA
+75572,,Ct hrt w/3d image,645.0,1,False,state,LA
+75573,26,Ct hrt w/3d image congen,252.0,1,False,state,LA
+75573,TC,Ct hrt w/3d image congen,634.0,1,False,state,LA
+75573,,Ct hrt w/3d image congen,886.0,1,False,state,LA
+75574,26,Ct angio hrt w/3d image,237.0,1,False,state,LA
+75574,TC,Ct angio hrt w/3d image,719.0,1,False,state,LA
+75574,,Ct angio hrt w/3d image,956.0,1,False,state,LA
+75600,,Contrast X -ray exam of,956.0,1,False,state,LA
+75600,26,Contrast X -ray exam of,53.0,1,False,state,LA
+75600,TC,Contrast X -ray exam of,903.0,1,False,state,LA
+75605,,Contrast X -ray exam of,1025.0,1,False,state,LA
+75605,26,Contrast X -ray exam of,122.0,1,False,state,LA
+75605,TC,Contrast X -ray exam of,903.0,1,False,state,LA
+75625,,Contrast X -ray exam of,1025.0,1,False,state,LA
+75625,26,Contrast X -ray exam of,122.0,1,False,state,LA
+75625,TC,Contrast X -ray exam of,903.0,1,False,state,LA
+75630,,"X-ray aorta, leg arteries",1082.0,1,False,state,LA
+75630,26,"X-ray aorta, leg arteries",140.0,1,False,state,LA
+75630,TC,"X-ray aorta, leg arteries",942.0,1,False,state,LA
+75635,26,Ct angio abdominal arteries,238.0,1,False,state,LA
+75635,TC,Ct angio abdominal arteries,689.0,1,False,state,LA
+75635,,Ct angio abdominal arteries,927.0,1,False,state,LA
+75650,,"Artery X-rays, head & neck",1063.0,1,False,state,LA
+75650,26,"Artery X-rays, head & neck",160.0,1,False,state,LA
+75650,TC,"Artery X-rays, head & neck",903.0,1,False,state,LA
+75658,,X-ray exam of arm arteries,1043.0,1,False,state,LA
+75658,26,X-ray exam of arm arteries,140.0,1,False,state,LA
+75658,TC,X-ray exam of arm arteries,903.0,1,False,state,LA
+75660,,"Artery X-rays, head & neck",1043.0,1,False,state,LA
+75660,26,"Artery X-rays, head & neck",140.0,1,False,state,LA
+75660,TC,"Artery X-rays, head & neck",903.0,1,False,state,LA
+75662,,"Artery X-rays, head & neck",1081.0,1,False,state,LA
+75662,26,"Artery X-rays, head & neck",178.0,1,False,state,LA
+75662,TC,"Artery X-rays, head & neck",903.0,1,False,state,LA
+75665,,"Artery X-rays, head & neck",1043.0,1,False,state,LA
+75665,26,"Artery X-rays, head & neck",140.0,1,False,state,LA
+75665,TC,"Artery X-rays, head & neck",903.0,1,False,state,LA
+75671,,"Artery X-rays, head & neck",1081.0,1,False,state,LA
+75671,26,"Artery X-rays, head & neck",178.0,1,False,state,LA
+75671,TC,"Artery X-rays, head & neck",903.0,1,False,state,LA
+75676,,"Artery X-rays, neck",1043.0,1,False,state,LA
+75676,26,"Artery X-rays, neck",140.0,1,False,state,LA
+75676,TC,"Artery X-rays, neck",903.0,1,False,state,LA
+75680,,"Artery X-rays, neck",1081.0,1,False,state,LA
+75680,26,"Artery X-rays, neck",178.0,1,False,state,LA
+75680,TC,"Artery X-rays, neck",903.0,1,False,state,LA
+75685,,"Artery X-rays, spine",1043.0,1,False,state,LA
+75685,26,"Artery X-rays, spine",140.0,1,False,state,LA
+75685,TC,"Artery X-rays, spine",903.0,1,False,state,LA
+75705,,"Artery X-rays, spine",1137.0,1,False,state,LA
+75705,26,"Artery X-rays, spine",234.0,1,False,state,LA
+75705,TC,"Artery X-rays, spine",903.0,1,False,state,LA
+75710,,"Artery X-rays, arm/leg",1025.0,1,False,state,LA
+75710,26,"Artery X-rays, arm/leg",122.0,1,False,state,LA
+75710,TC,"Artery X-rays, arm/leg",903.0,1,False,state,LA
+75716,,"Artery X-rays, arms/legs",1043.0,1,False,state,LA
+75716,26,"Artery X-rays, arms/legs",140.0,1,False,state,LA
+75716,TC,"Artery X-rays, arms/legs",903.0,1,False,state,LA
+75726,,"Artery X-rays, abdomen",1025.0,1,False,state,LA
+75726,26,"Artery X-rays, abdomen",122.0,1,False,state,LA
+75726,TC,"Artery X-rays, abdomen",903.0,1,False,state,LA
+75731,,"Artery X-rays, adrenal",1025.0,1,False,state,LA
+75731,26,"Artery X-rays, adrenal",122.0,1,False,state,LA
+75731,TC,"Artery X-rays, adrenal",903.0,1,False,state,LA
+75733,,"Artery X-rays,adrenal",1043.0,1,False,state,LA
+75733,26,"Artery X-rays,adrenal",140.0,1,False,state,LA
+75733,TC,"Artery X-rays,adrenal",903.0,1,False,state,LA
+75736,,"Artery X-rays, pelvis",1025.0,1,False,state,LA
+75736,26,"Artery X-rays, pelvis",122.0,1,False,state,LA
+75736,TC,"Artery X-rays, pelvis",903.0,1,False,state,LA
+75741,,"Artery X-rays, lung",1043.0,1,False,state,LA
+75741,26,"Artery X-rays, lung",140.0,1,False,state,LA
+75741,TC,"Artery X-rays, lung",903.0,1,False,state,LA
+75743,,"Artery X-rays, lungs",1081.0,1,False,state,LA
+75743,26,"Artery X-rays, lungs",178.0,1,False,state,LA
+75743,TC,"Artery X-rays, lungs",903.0,1,False,state,LA
+75746,,"Artery X-rays, lung",1025.0,1,False,state,LA
+75746,26,"Artery X-rays, lung",122.0,1,False,state,LA
+75746,TC,"Artery X-rays, lung",903.0,1,False,state,LA
+75756,,"Artery X-rays, chest",1025.0,1,False,state,LA
+75756,26,"Artery X-rays, chest",122.0,1,False,state,LA
+75756,TC,"Artery X-rays, chest",903.0,1,False,state,LA
+75774,,"Artery X-ray, each vessel",977.0,1,False,state,LA
+75774,26,"Artery X-ray, each vessel",37.0,1,False,state,LA
+75774,TC,"Artery X-ray, each vessel",940.0,1,False,state,LA
+75791,26,Av dialysis shunt imaging,168.0,1,False,state,LA
+75791,TC,Av dialysis  shunt imaging,532.0,1,False,state,LA
+75791,,Av dialysis shunt imaging,700.0,1,False,state,LA
+75801,,"Lymph vessel X -ray, arm/leg",476.0,1,False,state,LA
+75801,26,"Lymph vessel X -ray, arm/leg",87.0,1,False,state,LA
+75801,TC,"Lymph vessel X -ray, arm/leg",389.0,1,False,state,LA
+75803,,"Lymph vessel X -ray, arm/leg",514.0,1,False,state,LA
+75803,26,"Lymph vessel X -ray, arm/leg",125.0,1,False,state,LA
+75803,TC,"Lymph vessel X -ray, arm/leg",389.0,1,False,state,LA
+75805,,"Lymph vessel X -ray, trunk",524.0,1,False,state,LA
+75805,26,"Lymph vessel X -ray, trunk",87.0,1,False,state,LA
+75805,TC,"Lymph vessel X -ray, trunk",437.0,1,False,state,LA
+75807,,"Lymph vessel X -ray, trunk",562.0,1,False,state,LA
+75807,26,"Lymph vessel X -ray, trunk",125.0,1,False,state,LA
+75807,TC,"Lymph vessel X -ray, trunk",437.0,1,False,state,LA
+75809,,"Nonvascular shunt, X -ray",106.0,1,False,state,LA
+75809,26,"Nonvascular shunt, X -ray",49.0,1,False,state,LA
+75809,TC,"Nonvascular shunt, X -ray",57.0,1,False,state,LA
+75810,,"Vein X-ray, spleen/liver",1025.0,1,False,state,LA
+75810,26,"Vein X-ray, spleen/liver",122.0,1,False,state,LA
+75810,TC,"Vein X-ray, spleen/liver",903.0,1,False,state,LA
+75820,,"Vein X-ray, arm/leg",144.0,1,False,state,LA
+75820,26,"Vein X-ray, arm/leg",76.0,1,False,state,LA
+75820,TC,"Vein X-ray, arm/leg",68.0,1,False,state,LA
+75822,,"Vein X-ray, arms/legs",220.0,1,False,state,LA
+75822,26,"Vein X-ray, arms/legs",114.0,1,False,state,LA
+75822,TC,"Vein X-ray, arms/legs",107.0,1,False,state,LA
+75825,,"Vein X-ray, trunk",1025.0,1,False,state,LA
+75825,26,"Vein X-ray, trunk",122.0,1,False,state,LA
+75825,TC,"Vein X-ray, trunk",903.0,1,False,state,LA
+75827,,"Vein X-ray, chest",1025.0,1,False,state,LA
+75827,26,"Vein X-ray, chest",122.0,1,False,state,LA
+75827,TC,"Vein X-ray, chest",903.0,1,False,state,LA
+75831,,"Vein X-ray, kidney",1025.0,1,False,state,LA
+75831,26,"Vein X-ray, kidney",122.0,1,False,state,LA
+75831,TC,"Vein X-ray, kidney",903.0,1,False,state,LA
+75833,,"Vein X-ray, kidneys",1063.0,1,False,state,LA
+75833,26,"Vein X-ray, kidneys",160.0,1,False,state,LA
+75833,TC,"Vein X-ray, kidneys",903.0,1,False,state,LA
+75840,,"Vein X-ray, adrenal gland",1025.0,1,False,state,LA
+75840,26,"Vein X-ray, adrenal gland",122.0,1,False,state,LA
+75840,TC,"Vein X-ray, adrenal gland",903.0,1,False,state,LA
+75842,,"Vein X-ray, adrenal glands",1063.0,1,False,state,LA
+75842,26,"Vein X-ray, adrenal glands",160.0,1,False,state,LA
+75842,TC,"Vein X-ray, adrenal glands",903.0,1,False,state,LA
+75860,,"Vein X-ray, neck",1025.0,1,False,state,LA
+75860,26,"Vein X-ray, neck",122.0,1,False,state,LA
+75860,TC,"Vein X-ray, neck",903.0,1,False,state,LA
+75870,,"Vein X-ray, skull",1025.0,1,False,state,LA
+75870,26,"Vein X-ray, skull",122.0,1,False,state,LA
+75870,TC,"Vein X-ray, skull",903.0,1,False,state,LA
+75872,,"Vein X-ray, skull",1025.0,1,False,state,LA
+75872,26,"Vein X-ray, skull",122.0,1,False,state,LA
+75872,TC,"Vein X-ray, skull",903.0,1,False,state,LA
+75880,,"Vein X-ray, eye socket",144.0,1,False,state,LA
+75880,26,"Vein X-ray, eye socket",76.0,1,False,state,LA
+75880,TC,"Vein X-ray, eye socket",68.0,1,False,state,LA
+75885,,"Vein X-ray, liver",1058.0,1,False,state,LA
+75885,26,"Vein X-ray, liver",155.0,1,False,state,LA
+75885,TC,"Vein X-ray, liver",903.0,1,False,state,LA
+75887,,"Vein X-ray, liver",1058.0,1,False,state,LA
+75887,26,"Vein X-ray, liver",155.0,1,False,state,LA
+75887,TC,"Vein X-ray, liver",903.0,1,False,state,LA
+75889,,"Vein X-ray, liver",1025.0,1,False,state,LA
+75889,26,"Vein X-ray, liver",122.0,1,False,state,LA
+75889,TC,"Vein X-ray, liver",903.0,1,False,state,LA
+75891,,"Vein X-ray, liver",1025.0,1,False,state,LA
+75891,26,"Vein X-ray, liver",122.0,1,False,state,LA
+75891,TC,"Vein X-ray, liver",903.0,1,False,state,LA
+75893,,Venous sampling by catheter,962.0,1,False,state,LA
+75893,26,Venous sampling by catheter,59.0,1,False,state,LA
+75893,TC,Venous sampling by catheter,903.0,1,False,state,LA
+75894,,"X-rays, transcatheter therapy",1871.0,1,False,state,LA
+75894,26,"X-rays, transcatheter therapy",140.0,1,False,state,LA
+75894,TC,"X-rays, transcatheter therapy",1731.0,1,False,state,LA
+75896,,"X-rays, transcatheter therapy",1644.0,1,False,state,LA
+75896,26,"X-rays, transcatheter therapy",140.0,1,False,state,LA
+75896,TC,"X-rays, transcatheter therapy",1504.0,1,False,state,LA
+75898,,Follow-up angiogram,253.0,1,False,state,LA
+75898,26,Follow-up angiogram,178.0,1,False,state,LA
+75898,TC,Follow-up angiogram,76.0,1,False,state,LA
+75900,,Arterial catheter exchange,1540.0,1,False,state,LA
+75900,26,Arterial catheter exchange,53.0,1,False,state,LA
+75900,TC,Arterial catheter exchange,1488.0,1,False,state,LA
+75901,26,Remove cva device obstruct,49.0,1,False,state,LA
+75901,TC,Remove cva device obstruct,321.0,1,False,state,LA
+75901,,Remove cva device obstruct,370.0,1,False,state,LA
+75902,26,Remove cva lumen obstruct,40.0,1,False,state,LA
+75902,TC,Remove cva lumen obstruct,121.0,1,False,state,LA
+75902,,Remove cva lumen obstruct,160.0,1,False,state,LA
+75945,,Intravascular us......,385.0,1,False,state,LA
+75945,26,Intravascular us......,45.0,1,False,state,LA
+75945,TC,Intravascular us......,341.0,1,False,state,LA
+75946,,Intravascular us add - on,216.0,1,False,state,LA
+75946,26,Intravascular us add - on,45.0,1,False,state,LA
+75946,TC,Intravascular us add - on,171.0,1,False,state,LA
+75952,,Endovasc repair abdom aorta,474.0,1,False,state,LA
+75953,,Abdom aneurysm endovas rpr,144.0,1,False,state,LA
+75954,,Iliac aneurysm endovas rpr,236.0,1,False,state,LA
+75956,,Xray endovasc thor ao repr,741.0,1,False,state,LA
+75957,,Xray endovasc thor ao repr,635.0,1,False,state,LA
+75958,,Xray place prox ext thor ao,424.0,1,False,state,LA
+75959,,Xray place dist ext thor ao,368.0,1,False,state,LA
+75960,,"Transcatheter intro, stent",1156.0,1,False,state,LA
+75960,26,"Transcatheter intro, stent",89.0,1,False,state,LA
+75960,TC,"Transcatheter intro, stent",1068.0,1,False,state,LA
+75961,,"Retrieval, broken catheter",1208.0,1,False,state,LA
+75961,26,"Retrieval, broken catheter",455.0,1,False,state,LA
+75961,TC,"Retrieval, broken catheter",753.0,1,False,state,LA
+75962,,Repair arterial blockage,1188.0,1,False,state,LA
+75962,26,Repair arterial blockage,59.0,1,False,state,LA
+75962,TC,Repair arterial blockage,1129.0,1,False,state,LA
+75964,,"Repair artery blockage, each",664.0,1,False,state,LA
+75964,26,"Repair artery blockage, each",38.0,1,False,state,LA
+75964,TC,"Repair artery blockage, each",626.0,1,False,state,LA
+75966,,"Repair artery blockage, each",1269.0,1,False,state,LA
+75966,26,"Repair artery blockage, each",140.0,1,False,state,LA
+75966,TC,"Repair artery blockage, each",1129.0,1,False,state,LA
+75968,,"Repair artery blockage, each",664.0,1,False,state,LA
+75968,26,"Repair artery blockage, each",38.0,1,False,state,LA
+75968,TC,"Repair artery blockage, each",626.0,1,False,state,LA
+75970,,Vascular biopsy,917.0,1,False,state,LA
+75970,26,Vascular biopsy,90.0,1,False,state,LA
+75970,TC,Vascular biopsy,828.0,1,False,state,LA
+75978,,Repair venous blockage,1204.0,1,False,state,LA
+75978,26,Repair venous blockage,76.0,1,False,state,LA
+75978,TC,Repair venous blockage,1129.0,1,False,state,LA
+75980,,Contrast X -ray exam bile duct,544.0,1,False,state,LA
+75980,26,Contrast X -ray exam bile duct,155.0,1,False,state,LA
+75980,TC,Contrast X -ray exam bile duct,389.0,1,False,state,LA
+75982,,Contrast X -ray exam bile duct,592.0,1,False,state,LA
+75982,26,Contrast X -ray exam bile duct,155.0,1,False,state,LA
+75982,TC,Contrast X -ray exam bile duct,437.0,1,False,state,LA
+75984,,X-ray control catheter change,218.0,1,False,state,LA
+75984,26,X-ray control  catheter change,78.0,1,False,state,LA
+75984,TC,X-ray control catheter change,140.0,1,False,state,LA
+75989,,Abscess drainage under X -ray,358.0,1,False,state,LA
+75989,26,Abscess drainage under X -ray,122.0,1,False,state,LA
+75989,TC,Abscess drainage under X -ray,235.0,1,False,state,LA
+76000,,Fluoroscope examination,115.0,1,False,state,LA
+76000,26,Fluoroscope examination,18.0,1,False,state,LA
+76000,TC,Fluoroscope examination,97.0,1,False,state,LA
+76001,,"Fluoroscope exam, extensive",262.0,1,False,state,LA
+76001,26,"Fluoroscope exam, extensive",73.0,1,False,state,LA
+76001,TC,"Fluoroscope exam, extensive",189.0,1,False,state,LA
+76010,,"X-ray, nose to rectum",57.0,1,False,state,LA
+76010,26,"X-ray, nose to rectum",19.0,1,False,state,LA
+76010,TC,"X-ray, nose to rectum",38.0,1,False,state,LA
+76080,,X-ray exam of fistula,135.0,1,False,state,LA
+76080,26,X-ray exam of fistula,57.0,1,False,state,LA
+76080,TC,X-ray exam of fistula,79.0,1,False,state,LA
+76098,,"X-ray exam, breast specimen",47.0,1,False,state,LA
+76098,26,"X-ray exam, breast specimen",17.0,1,False,state,LA
+76098,TC,"X-ray exam, breast specimen",31.0,1,False,state,LA
+76100,,X-ray exam of body section,153.0,1,False,state,LA
+76100,26,X-ray exam of body section,63.0,1,False,state,LA
+76100,TC,X-ray exam of body section,90.0,1,False,state,LA
+76101,,Complex body section X -ray,165.0,1,False,state,LA
+76101,26,Complex body section X -ray,63.0,1,False,state,LA
+76101,TC,Complex body section X -ray,102.0,1,False,state,LA
+76102,,Complex body section X -ray,188.0,1,False,state,LA
+76102,26,Complex body section X -ray,63.0,1,False,state,LA
+76102,TC,Complex body section X -ray,125.0,1,False,state,LA
+76120,,Cinematic X -rays,117.0,1,False,state,LA
+76120,26,Cinematic X -rays,41.0,1,False,state,LA
+76120,TC,Cinematic X -rays,76.0,1,False,state,LA
+76125,,Cinematic X -rays add- on,87.0,1,False,state,LA
+76125,26,Cinematic X -rays add- on,29.0,1,False,state,LA
+76125,TC,Cinematic X -rays add- on,59.0,1,False,state,LA
+76140,,X-ray consultation    BR,76376.0,1,False,state,LA
+76376,TC,3d render w/o postprocess,103.0,1,False,state,LA
+76376,,3d render w/o postprocess,122.0,1,False,state,LA
+76377,26,3d rendering w/postprocess,79.0,1,False,state,LA
+76377,TC,3d rendering w/postprocess,85.0,1,False,state,LA
+76377,,3d rendering w/postprocess,164.0,1,False,state,LA
+76380,,Cat scan follow -up study,357.0,1,False,state,LA
+76380,26,Cat scan follow -up study,105.0,1,False,state,LA
+76380,TC,Cat scan follow -up study,252.0,1,False,state,LA
+76390,,Mr spectroscopy.......,986.0,1,False,state,LA
+76390,26,Mr spectroscopy.......,150.0,1,False,state,LA
+76390,TC,Mr spectroscopy.......,836.0,1,False,state,LA
+76499,,Radiographic procedure    BR,76499.0,1,False,state,LA
+76499,TC,Radiographic procedure    BR,76506.0,1,False,state,LA
+76506,26,Echo exam of head,68.0,1,False,state,LA
+76506,TC,Echo exam of head,102.0,1,False,state,LA
+76510,26,Ophth us b & quant a,197.0,1,False,state,LA
+76510,TC,Ophth us b & quant a,164.0,1,False,state,LA
+76510,,Ophth us b & quant a,361.0,1,False,state,LA
+76511,,Echo exam of eye,177.0,1,False,state,LA
+76511,26,Echo exam of eye,87.0,1,False,state,LA
+76511,TC,Echo exam of eye,90.0,1,False,state,LA
+76512,,Echo exam of eye,182.0,1,False,state,LA
+76512,26,Echo exam of eye,72.0,1,False,state,LA
+76512,TC,Echo exam of eye,110.0,1,False,state,LA
+76513,,"Echo exam of eye, water bath",186.0,1,False,state,LA
+76513,26,"Echo exam of eye, water bath",72.0,1,False,state,LA
+76513,TC,"Echo exam of eye, water bath",114.0,1,False,state,LA
+76514,26,Echo exam of eye thickness,20.0,1,False,state,LA
+76514,TC,Echo exam of eye thickness,11.0,1,False,state,LA
+76514,,Echo exam of eye thickness,31.0,1,False,state,LA
+76516,,Echo exam of eye,149.0,1,False,state,LA
+76516,26,Echo exam of eye,59.0,1,False,state,LA
+76516,TC,Echo exam of eye,90.0,1,False,state,LA
+76519,,Echo exam of eye,149.0,1,False,state,LA
+76519,26,Echo exam of eye,59.0,1,False,state,LA
+76519,TC,Echo exam of eye,90.0,1,False,state,LA
+76529,,Echo exam of eye,160.0,1,False,state,LA
+76529,26,Echo exam of eye,62.0,1,False,state,LA
+76529,TC,Echo exam of eye,98.0,1,False,state,LA
+76536,,Echo exam of head and neck,163.0,1,False,state,LA
+76536,26,Echo exam of head and neck,61.0,1,False,state,LA
+76536,TC,Echo exam of head and neck,102.0,1,False,state,LA
+76604,,Echo exam of chest,154.0,1,False,state,LA
+76604,26,Echo exam of chest,61.0,1,False,state,LA
+76604,TC,Echo exam of chest,94.0,1,False,state,LA
+76645,,Echo exam of breast,135.0,1,False,state,LA
+76645,26,Echo exam of breast,59.0,1,False,state,LA
+76645,TC,Echo exam of breast,76.0,1,False,state,LA
+76700,,Echo exam of abdomen,229.0,1,False,state,LA
+76700,26,Echo exam of abdomen,87.0,1,False,state,LA
+76700,TC,Echo exam of abdomen,142.0,1,False,state,LA
+76705,,Echo exam of abdomen,166.0,1,False,state,LA
+76705,26,Echo exam of abdomen,64.0,1,False,state,LA
+76705,TC,Echo exam of abdomen,102.0,1,False,state,LA
+76770,,Echo exam abdomen back wall,222.0,1,False,state,LA
+76770,26,Echo exam abdomen back wall,80.0,1,False,state,LA
+76770,TC,Echo exam abdomen back wall,142.0,1,False,state,LA
+76775,,Echo exam abdomen back wall,165.0,1,False,state,LA
+76775,26,Echo exam abdomen back wall,63.0,1,False,state,LA
+76775,TC,Echo exam abdomen back wall,102.0,1,False,state,LA
+76776,26,Us exam k transpl w/doppler,76.0,1,False,state,LA
+76776,TC,Us exam k transpl w/doppler,245.0,1,False,state,LA
+76776,,Us exam k transpl w/doppler,321.0,1,False,state,LA
+76778,,TC,142.0,1,False,state,LA
+76800,,Echo exam spinal canal,223.0,1,False,state,LA
+76800,26,Echo exam spinal canal,122.0,1,False,state,LA
+76800,TC,Echo exam spinal canal,102.0,1,False,state,LA
+76801,26,Ob us < 14 wks single fetus,99.0,1,False,state,LA
+76801,TC,Ob us < 14 wks single fetus,167.0,1,False,state,LA
+76801,,Ob us < 14 wks single fetus,266.0,1,False,state,LA
+76802,26,Ob us < 14 wks addl fetus,84.0,1,False,state,LA
+76802,TC,Ob us < 14 wks addl fetus,56.0,1,False,state,LA
+76802,,Ob us < 14 wks addl fetus,140.0,1,False,state,LA
+76805,,Echo exam of pregnant uterus,257.0,1,False,state,LA
+76805,26,Echo exam of pregnant uterus,107.0,1,False,state,LA
+76805,TC,Echo exam of pregnant uterus,151.0,1,False,state,LA
+76810,,Echo exam of pregnant uterus,511.0,1,False,state,LA
+76810,26,Echo exam of pregnant uterus,211.0,1,False,state,LA
+76810,TC,Echo exam of pregnant uterus,301.0,1,False,state,LA
+76811,26,Ob us detailed sngl fetus,196.0,1,False,state,LA
+76811,TC,Ob us detailed sngl fetus,194.0,1,False,state,LA
+76811,,Ob us detailed sngl fetus,390.0,1,False,state,LA
+76812,26,Ob us detailed addl fetus,184.0,1,False,state,LA
+76812,TC,Ob us detailed addl fetus,262.0,1,False,state,LA
+76812,,Ob us detailed addl fetus,446.0,1,False,state,LA
+76813,26,Ob us nuchal meas 1 gest,123.0,1,False,state,LA
+76813,TC,Ob us nuchal meas 1 gest,138.0,1,False,state,LA
+76813,,Ob us nuchal meas 1 gest,261.0,1,False,state,LA
+76814,26,Ob us nuchal meas add -on,103.0,1,False,state,LA
+76814,TC,Ob us nuchal meas add -on,67.0,1,False,state,LA
+76814,,Ob us nuchal meas add -on,170.0,1,False,state,LA
+76815,,Echo exam of pregnant uterus,175.0,1,False,state,LA
+76815,26,Echo exam of pregnant uterus,69.0,1,False,state,LA
+76815,TC,Echo exam of pregnant uterus,106.0,1,False,state,LA
+76816,,Echo exam followup or repeat,142.0,1,False,state,LA
+76816,26,Echo exam followup or repeat,62.0,1,False,state,LA
+76816,TC,Echo exam followup or repeat,80.0,1,False,state,LA
+76817,26,Transvaginal us obstetric,77.0,1,False,state,LA
+76817,TC,Transvaginal us obstetric,138.0,1,False,state,LA
+76817,,Transvaginal us obstetric,215.0,1,False,state,LA
+76818,,Fetal biophysical profile,199.0,1,False,state,LA
+76818,26,Fetal biophysical profile,83.0,1,False,state,LA
+76818,TC,Fetal biophysical profile,117.0,1,False,state,LA
+76819,26,Fetal biophys profil w/o nst,79.0,1,False,state,LA
+76819,TC,Fetal biophys profil w/o nst,108.0,1,False,state,LA
+76819,,Fetal biophys profil w/o nst,187.0,1,False,state,LA
+76820,26,Umbilical artery echo,52.0,1,False,state,LA
+76820,TC,Umbilical artery echo,33.0,1,False,state,LA
+76820,,Umbilical artery echo,85.0,1,False,state,LA
+76821,26,Middle cerebral artery echo,74.0,1,False,state,LA
+76821,TC,Middle cerebral artery echo,129.0,1,False,state,LA
+76821,,Middle cerebral artery echo,203.0,1,False,state,LA
+76825,,Echo exam of fetal heart,239.0,1,False,state,LA
+76825,26,Echo exam of fetal heart,98.0,1,False,state,LA
+76825,TC,Echo exam of fetal heart,142.0,1,False,state,LA
+76826,,Echo exam of fetal heart,162.0,1,False,state,LA
+76826,26,Echo exam of fetal heart,111.0,1,False,state,LA
+76826,TC,Echo exam of fetal heart,52.0,1,False,state,LA
+76827,,Echo exam of fetal heart,220.0,1,False,state,LA
+76827,26,Echo exam of fetal heart,94.0,1,False,state,LA
+76827,TC,Echo exam of fetal heart,126.0,1,False,state,LA
+76828,,Echo exam of fetal heart,143.0,1,False,state,LA
+76828,26,Echo exam of fetal heart,61.0,1,False,state,LA
+76828,TC,Echo exam of fetal heart,82.0,1,False,state,LA
+76830,,"Echo exam, transvaginal",185.0,1,False,state,LA
+76830,26,"Echo exam, transvaginal",75.0,1,False,state,LA
+76830,TC,"Echo exam, transvaginal",110.0,1,False,state,LA
+76831,,"Echo exam, uterus.....",189.0,1,False,state,LA
+76831,26,"Echo exam, uterus.....",75.0,1,False,state,LA
+76831,TC,"Echo exam,  uterus.....",114.0,1,False,state,LA
+76856,,Echo exam of pelvis,185.0,1,False,state,LA
+76856,26,Echo exam of pelvis,75.0,1,False,state,LA
+76856,TC,Echo exam of pelvis,110.0,1,False,state,LA
+76857,,Echo exam of pelvis,117.0,1,False,state,LA
+76857,26,Echo exam of pelvis,41.0,1,False,state,LA
+76857,TC,Echo exam of pelvis,76.0,1,False,state,LA
+76870,,Echo exam of scrotum,179.0,1,False,state,LA
+76870,26,Echo exam of scrotum,69.0,1,False,state,LA
+76870,TC,Echo exam of scrotum,110.0,1,False,state,LA
+76872,,"Echo exam, transrectal",187.0,1,False,state,LA
+76872,26,"Echo exam, transrectal",73.0,1,False,state,LA
+76872,TC,"Echo exam, transrectal",114.0,1,False,state,LA
+76873,,"Echograp trans r, pros study",358.0,1,False,state,LA
+76873,26,"Echograp trans r, pros study",157.0,1,False,state,LA
+76873,TC,"Echograp trans r, pros study",200.0,1,False,state,LA
+76881,26,Us xtr non -vasc complete,63.0,1,False,state,LA
+76881,TC,Us xtr non -vasc complete,190.0,1,False,state,LA
+76881,,Us xtr non -vasc complete,254.0,1,False,state,LA
+76882,26,Us xtr non -vasc lmtd,50.0,1,False,state,LA
+76882,TC,Us xtr non -vasc lmtd,22.0,1,False,state,LA
+76882,,Us xtr non -vasc lmtd,72.0,1,False,state,LA
+76885,,"Echo exam, infant hips",190.0,1,False,state,LA
+76885,26,"Echo exam, infant hips",76.0,1,False,state,LA
+76885,TC,"Echo exam, infant hips",114.0,1,False,state,LA
+76886,,"Echo exam, infant hips",170.0,1,False,state,LA
+76886,26,"Echo exam, infant hips",64.0,1,False,state,LA
+76886,TC,"Echo exam, infant hips",106.0,1,False,state,LA
+76930,,Echo guide for heart sac tap,183.0,1,False,state,LA
+76930,26,Echo guide for heart sac tap,73.0,1,False,state,LA
+76930,TC,Echo guide for heart sac tap,110.0,1,False,state,LA
+76932,,Echo guide for heart biopsy,183.0,1,False,state,LA
+76932,26,Echo guide for heart biopsy,73.0,1,False,state,LA
+76932,TC,Echo guide for heart biopsy,110.0,1,False,state,LA
+76936,,Echo guide for artery repair,600.0,1,False,state,LA
+76936,26,Echo guide for artery repair,153.0,1,False,state,LA
+76936,TC,Echo guide for artery repair,447.0,1,False,state,LA
+76937,26,Us guide vascular access,30.0,1,False,state,LA
+76937,TC,Us guide vascular access,42.0,1,False,state,LA
+76937,,Us guide vascular  access,72.0,1,False,state,LA
+76940,,Us guide tissue ablation,213.0,1,False,state,LA
+76941,,Echo guide for transfusion,252.0,1,False,state,LA
+76941,26,Echo guide for transfusion,144.0,1,False,state,LA
+76941,TC,Echo guide for transfusion,109.0,1,False,state,LA
+76942,,Echo guide for biopsy,183.0,1,False,state,LA
+76942,26,Echo guide for biopsy,73.0,1,False,state,LA
+76942,TC,Echo guide for biopsy,110.0,1,False,state,LA
+76945,,"Echo guide, villus sampling",205.0,1,False,state,LA
+76945,26,"Echo guide, villus sampling",97.0,1,False,state,LA
+76945,TC,"Echo guide, villus sampling",109.0,1,False,state,LA
+76946,,Echo guide for amniocentesis,151.0,1,False,state,LA
+76946,26,Echo guide for amniocentesis,41.0,1,False,state,LA
+76946,TC,Echo guide for amniocentesis,110.0,1,False,state,LA
+76948,,"Echo guide, ova aspiration",151.0,1,False,state,LA
+76948,26,"Echo guide, ova aspiration",41.0,1,False,state,LA
+76948,TC,"Echo guide, ova aspiration",110.0,1,False,state,LA
+76950,,Echo guidance radiotherapy,157.0,1,False,state,LA
+76950,26,Echo guidance radiotherapy,63.0,1,False,state,LA
+76950,TC,Echo guidance radiotherapy,94.0,1,False,state,LA
+76965,,Echo guidance radiotherapy,611.0,1,False,state,LA
+76965,26,Echo guidance radiotherapy,195.0,1,False,state,LA
+76965,TC,Echo guidance radiotherapy,416.0,1,False,state,LA
+76970,,Ultrasound exam follow -up,119.0,1,False,state,LA
+76970,26,Ultrasound exam follow -up,43.0,1,False,state,LA
+76970,TC,Ultrasound exam follow -up,76.0,1,False,state,LA
+76975,,Gi endoscopic ultrasound,195.0,1,False,state,LA
+76975,26,Gi endoscopic ultrasound,85.0,1,False,state,LA
+76975,TC,Gi endoscopic ultrasound,110.0,1,False,state,LA
+76977,,Us bone density measure,85.0,1,False,state,LA
+76977,26,Us bone density measure,22.0,1,False,state,LA
+76977,TC,Us bone density measure,62.0,1,False,state,LA
+76998,,Us guide intraop,134.0,1,False,state,LA
+76999,,Echo examination procedure    BR,76999.0,1,False,state,LA
+76999,TC,Echo examination procedure    BR,77001.0,1,False,state,LA
+77001,TC,Fluoroguide for vein device,210.0,1,False,state,LA
+77001,,Fluoroguide for vein device,248.0,1,False,state,LA
+77002,26,Needle localization by xray,57.0,1,False,state,LA
+77002,TC,Needle localization by xray,107.0,1,False,state,LA
+77002,,Needle localization by xray,163.0,1,False,state,LA
+77003,26,Fluoroguide for spine inject,64.0,1,False,state,LA
+77003,TC,Fluoroguide for spine inject,73.0,1,False,state,LA
+77003,,Fluoroguide for spine inject,136.0,1,False,state,LA
+77011,26,Ct scan for localization,125.0,1,False,state,LA
+77011,TC,Ct scan for localization,357.0,1,False,state,LA
+77011,,Ct scan for localization,482.0,1,False,state,LA
+77012,26,Ct scan for needle biopsy,113.0,1,False,state,LA
+77012,TC,Ct scan for needle biopsy,151.0,1,False,state,LA
+77012,,Ct scan for needle biopsy,265.0,1,False,state,LA
+77013,,Ct guide for tissue ablation,405.0,1,False,state,LA
+77014,26,Ct scan for therapy guide,86.0,1,False,state,LA
+77014,TC,Ct scan for therapy guide,171.0,1,False,state,LA
+77014,,Ct scan for therapy guide,257.0,1,False,state,LA
+77021,26,Mr guidance for needle place,151.0,1,False,state,LA
+77021,TC,Mr guidance for needle place,659.0,1,False,state,LA
+77021,,Mr guidance for needle place,810.0,1,False,state,LA
+77022,,Mri for tissue ablation,427.0,1,False,state,LA
+77031,26,Stereotact guide for brst bx,161.0,1,False,state,LA
+77031,TC,Stereotact guide for brst bx,105.0,1,False,state,LA
+77031,,Stereotact guide for brst bx,267.0,1,False,state,LA
+77032,26,Guidance for needle breast,56.0,1,False,state,LA
+77032,TC,Guidance for needle breast,50.0,1,False,state,LA
+77032,,Guidance for needle breast,106.0,1,False,state,LA
+77051,26,Computer dx mammogram add -on,6.0,1,False,state,LA
+77051,TC,Computer dx mammogram add -on,15.0,1,False,state,LA
+77051,,Computer dx mammogram add -on,21.0,1,False,state,LA
+77052,26,Comp screen mammogram add -on,6.0,1,False,state,LA
+77052,TC,Comp screen mammogram add -on,14.0,1,False,state,LA
+77052,,Comp screen mammogram add -on,20.0,1,False,state,LA
+77053,26,X-ray of mammary duct,35.0,1,False,state,LA
+77053,TC,X-ray of mammary duct,85.0,1,False,state,LA
+77053,,X-ray of mammary duct,121.0,1,False,state,LA
+77054,26,X-ray of mammary ducts,45.0,1,False,state,LA
+77054,TC,X-ray of mammary ducts,119.0,1,False,state,LA
+77054,,X-ray of mammary ducts,164.0,1,False,state,LA
+77055,26,Mammogram one breast,70.0,1,False,state,LA
+77055,TC,Mammogram one breast,109.0,1,False,state,LA
+77055,,Mammogram one breast,179.0,1,False,state,LA
+77056,26,Mammogram both breasts,87.0,1,False,state,LA
+77056,TC,Mammogram both breasts,142.0,1,False,state,LA
+77056,,Mammogram both breasts,229.0,1,False,state,LA
+77057,26,Mammogram screening,70.0,1,False,state,LA
+77057,TC,Mammogram screening,93.0,1,False,state,LA
+77057,,Mammogram screening,164.0,1,False,state,LA
+77058,26,Mri one breast,162.0,1,False,state,LA
+77058,TC,Mri one breast,1135.0,1,False,state,LA
+77058,,Mri one breast,1297.0,1,False,state,LA
+77059,26,Mri both breasts,162.0,1,False,state,LA
+77059,TC,Mri both breasts,1131.0,1,False,state,LA
+77059,,Mri both breasts,1293.0,1,False,state,LA
+77071,,X-ray stress view,109.0,1,False,state,LA
+77072,26,X-rays for bone age,19.0,1,False,state,LA
+77072,TC,X-rays for bone age,29.0,1,False,state,LA
+77072,,X-rays for bone age,48.0,1,False,state,LA
+77073,26,X-rays bone length studies,30.0,1,False,state,LA
+77073,TC,X-rays bone length studies,51.0,1,False,state,LA
+77073,,X-rays bone length studies,81.0,1,False,state,LA
+77074,26,X-rays bone survey limited,45.0,1,False,state,LA
+77074,TC,X-rays bone survey limited,98.0,1,False,state,LA
+77074,,X-rays bone survey limited,144.0,1,False,state,LA
+77075,26,X-rays bone survey complete,54.0,1,False,state,LA
+77075,TC,X-rays bone survey complete,162.0,1,False,state,LA
+77075,,X-rays bone survey complete,216.0,1,False,state,LA
+77076,26,X-rays bone survey infant,72.0,1,False,state,LA
+77076,TC,X-rays bone survey infant,160.0,1,False,state,LA
+77076,,X-rays bone survey infant,232.0,1,False,state,LA
+77077,26,Joint survey single view,35.0,1,False,state,LA
+77077,TC,Joint survey single view,51.0,1,False,state,LA
+77077,,Joint survey single view,85.0,1,False,state,LA
+77078,26,Ct bone density axial,25.0,1,False,state,LA
+77078,TC,Ct bone density axial,256.0,1,False,state,LA
+77078,,Ct bone density axial,281.0,1,False,state,LA
+77080,26,Dxa bone density axial,21.0,1,False,state,LA
+77080,TC,Dxa bone density axial,84.0,1,False,state,LA
+77080,,Dxa bone density axial,105.0,1,False,state,LA
+77081,26,Dxa bone density/peripheral,23.0,1,False,state,LA
+77081,TC,Dxa bone density/peripheral,35.0,1,False,state,LA
+77081,,Dxa bone density/peripheral,58.0,1,False,state,LA
+77082,26,Dxa bone density vert fx,18.0,1,False,state,LA
+77082,TC,Dxa bone density vert fx,40.0,1,False,state,LA
+77082,,Dxa bone density vert fx,58.0,1,False,state,LA
+77084,26,Magnetic image bone marrow,160.0,1,False,state,LA
+77084,TC,Magnetic image bone marrow,756.0,1,False,state,LA
+77084,,Magnetic image bone marrow,916.0,1,False,state,LA
+77261,,Radiation therapy planning,150.0,1,False,state,LA
+77262,,Radiation therapy planning,226.0,1,False,state,LA
+77263,,Radiation therapy planning,336.0,1,False,state,LA
+77280,,Set radiation therapy field,325.0,1,False,state,LA
+77280,26,Set radiation therapy field,76.0,1,False,state,LA
+77280,TC,Set radiation therapy field,250.0,1,False,state,LA
+77285,,Set radiation therapy field,512.0,1,False,state,LA
+77285,26,Set radiation therapy field,112.0,1,False,state,LA
+77285,TC,Set radiation therapy field,400.0,1,False,state,LA
+77290,,Set radiation therapy field,635.0,1,False,state,LA
+77290,26,Set radiation therapy field,168.0,1,False,state,LA
+77290,TC,Set radiation therapy field,467.0,1,False,state,LA
+77295,,Set radiation therapy field,2558.0,1,False,state,LA
+77295,26,Set radiation therapy field,472.0,1,False,state,LA
+77295,TC,Set radiation therapy field,2086.0,1,False,state,LA
+77299,,Radiation therapy planning    BR,77299.0,1,False,state,LA
+77299,TC,Radiation therapy planning    BR,77300.0,1,False,state,LA
+77300,26,Radiation therapy dose plan,67.0,1,False,state,LA
+77300,TC,Radiation therapy dose plan,96.0,1,False,state,LA
+77301,26,Radiotherapy dose plan imrt,815.0,1,False,state,LA
+77301,TC,Radiotherapy dose plan imrt,2998.0,1,False,state,LA
+77301,,Radiotherapy dose plan imrt,3813.0,1,False,state,LA
+77305,,Radiation therapy dose plan,210.0,1,False,state,LA
+77305,26,Radiation therapy dose plan,76.0,1,False,state,LA
+77305,TC,Radiation therapy dose plan,134.0,1,False,state,LA
+77310,,Radiation therapy dose plan,280.0,1,False,state,LA
+77310,26,Radiation therapy dose plan,112.0,1,False,state,LA
+77310,TC,Radiation therapy dose plan,168.0,1,False,state,LA
+77315,,Radiation therapy dose plan,360.0,1,False,state,LA
+77315,26,Radiation therapy dose plan,168.0,1,False,state,LA
+77315,TC,Radiation therapy dose plan,192.0,1,False,state,LA
+77321,,Radiation therapy port plan,391.0,1,False,state,LA
+77321,26,Radiation therapy port plan,102.0,1,False,state,LA
+77321,TC,Radiation therapy port plan,290.0,1,False,state,LA
+77326,,Radiation therapy dose plan,270.0,1,False,state,LA
+77326,26,Radiation therapy dose plan,100.0,1,False,state,LA
+77326,TC,Radiation therapy dose plan,171.0,1,False,state,LA
+77327,,Radiation therapy dose plan,399.0,1,False,state,LA
+77327,26,Radiation therapy dose plan,150.0,1,False,state,LA
+77327,TC,Radiation therapy dose plan,250.0,1,False,state,LA
+77328,,Radiation therapy dose plan,579.0,1,False,state,LA
+77328,26,Radiation therapy dose plan,224.0,1,False,state,LA
+77328,TC,Radiation therapy dose plan,356.0,1,False,state,LA
+77331,,Special radiation dosimetry,130.0,1,False,state,LA
+77331,26,Special radiation dosimetry,94.0,1,False,state,LA
+77331,TC,Special radiation dosimetry,37.0,1,False,state,LA
+77332,,Radiation treatment aid(s),155.0,1,False,state,LA
+77332,26,Radiation treatment aid(s),59.0,1,False,state,LA
+77332,TC,Radiation treatment aid(s),96.0,1,False,state,LA
+77333,,Radiation treatment aid(s),227.0,1,False,state,LA
+77333,26,Radiation treatment aid(s),91.0,1,False,state,LA
+77333,TC,Radiation treatment aid(s),137.0,1,False,state,LA
+77334,,Radiation treatment aid(s),364.0,1,False,state,LA
+77334,26,Radiation treatment aid(s),132.0,1,False,state,LA
+77334,TC,Radiation treatment aid(s),233.0,1,False,state,LA
+77336,,Radiation physics consult.,223.0,1,False,state,LA
+77338,26,Design mlc device for imrt,438.0,1,False,state,LA
+77338,TC,Design mlc device for imrt,576.0,1,False,state,LA
+77338,,Design mlc device for imrt,1014.0,1,False,state,LA
+77370,,Radiation physics consult,251.0,1,False,state,LA
+77372,,Srs linear based,1651.0,1,False,state,LA
+77373,,Sbrt delivery,3176.0,1,False,state,LA
+77401,,Radiation treatment delivery,128.0,1,False,state,LA
+77402,,Radiation treatment delivery,128.0,1,False,state,LA
+77403,,Radiation treatment delivery,128.0,1,False,state,LA
+77404,,Radiation treatment delivery,128.0,1,False,state,LA
+77406,,Radiation treatment delivery,128.0,1,False,state,LA
+77407,,Radiation treatment delivery,150.0,1,False,state,LA
+77408,,Radiation treatment delivery,150.0,1,False,state,LA
+77409,,Radiation treatment delivery,150.0,1,False,state,LA
+77411,,Radiation treatment delivery,150.0,1,False,state,LA
+77412,,Radiation treatment delivery,168.0,1,False,state,LA
+77413,,Radiation treatment delivery,168.0,1,False,state,LA
+77414,,Radiation treatment delivery,168.0,1,False,state,LA
+77416,,Radiation treatment delivery,168.0,1,False,state,LA
+77417,,Radiology port film(s),43.0,1,False,state,LA
+77418,,Radiation tx delivery imrt,896.0,1,False,state,LA
+77421,26,Stereoscopic x -ray guidance,39.0,1,False,state,LA
+77421,TC,Stereoscopic x -ray guidance,114.0,1,False,state,LA
+77421,,Stereoscopic x -ray guidance,153.0,1,False,state,LA
+77422,,Neutron beam tx simple,540.0,1,False,state,LA
+77423,,Neutron beam tx complex,541.0,1,False,state,LA
+77427,,Radiation tx management x5,366.0,1,False,state,LA
+77431,,Radiation therapy management,194.0,1,False,state,LA
+77432,,Stereotactic radiation trmt,939.0,1,False,state,LA
+77435,,Sbrt management,1246.0,1,False,state,LA
+77469,,Io radiation tx management,618.0,1,False,state,LA
+77470,,Special radiation treatment,1022.0,1,False,state,LA
+77470,26,Special radiation treatment,224.0,1,False,state,LA
+77470,TC,Special radiation treatment,799.0,1,False,state,LA
+77499,,Radiation therapy management    BR,77499.0,1,False,state,LA
+77499,TC,Radiation therapy  management    BR,77520.0,1,False,state,LA
+77523,,Proton beam delivery..    BR,77600.0,1,False,state,LA
+77600,26,Hyperthermia treatment,168.0,1,False,state,LA
+77600,TC,Hyperthermia treatment,218.0,1,False,state,LA
+77605,,Hyperthermia treatment,515.0,1,False,state,LA
+77605,26,Hyperthermia treatment,224.0,1,False,state,LA
+77605,TC,Hyperthermia treatment,292.0,1,False,state,LA
+77610,,Hyperthermia treatment,386.0,1,False,state,LA
+77610,26,Hyperthermia treatment,168.0,1,False,state,LA
+77610,TC,Hyperthermia treatment,218.0,1,False,state,LA
+77615,,Hyperthermia treatment,515.0,1,False,state,LA
+77615,26,Hyperthermia treatment,224.0,1,False,state,LA
+77615,TC,Hyperthermia treatment,292.0,1,False,state,LA
+77620,,Hyperthermia treatment,386.0,1,False,state,LA
+77620,26,Hyperthermia treatment,168.0,1,False,state,LA
+77620,TC,Hyperthermia treatment,218.0,1,False,state,LA
+77750,,Infuse radioactive materials,90.0,1,False,state,LA
+77750,26,Infuse radioactive materials,90.0,1,False,state,LA
+77750,TC,Infuse radioactive materials,90.0,1,False,state,LA
+77761,,Radioelement application,90.0,1,False,state,LA
+77761,26,Radioelement application,90.0,1,False,state,LA
+77761,TC,Radioelement application,90.0,1,False,state,LA
+77762,,Radioelement application,90.0,1,False,state,LA
+77762,26,Radioelement application,90.0,1,False,state,LA
+77762,TC,Radioelement application,90.0,1,False,state,LA
+77763,,Radioelement application,90.0,1,False,state,LA
+77763,26,Radioelement application,90.0,1,False,state,LA
+77763,TC,Radioelement application,90.0,1,False,state,LA
+77776,,Radioelement application,656.0,1,False,state,LA
+77776,26,Radioelement application,500.0,1,False,state,LA
+77776,TC,Radioelement application,157.0,1,False,state,LA
+77777,,Radioelement application,90.0,1,False,state,LA
+77777,26,Radioelement application,90.0,1,False,state,LA
+77777,TC,Radioelement application,90.0,1,False,state,LA
+77778,,Radioelement application,90.0,1,False,state,LA
+77778,26,Radioelement application,90.0,1,False,state,LA
+77778,TC,Radioelement application,90.0,1,False,state,LA
+77785,26,Hdr brachytx 1 channel,145.0,1,False,state,LA
+77785,TC,Hdr brachytx 1 channel,357.0,1,False,state,LA
+77785,,Hdr brachytx 1 channel,502.0,1,False,state,LA
+77786,26,Hdr brachytx 2 -12 channel,332.0,1,False,state,LA
+77786,TC,Hdr brachytx 2 -12 channel,792.0,1,False,state,LA
+77786,,Hdr brachytx 2 -12 channel,1123.0,1,False,state,LA
+77787,26,Hdr brachytx over 12 chan,501.0,1,False,state,LA
+77787,TC,Hdr brachytx over 12 chan,1429.0,1,False,state,LA
+77787,,Hdr brachytx over 12 chan,1930.0,1,False,state,LA
+77789,,Radioelement application,90.0,1,False,state,LA
+77789,26,Radioelement application,90.0,1,False,state,LA
+77789,TC,Radioelement application,90.0,1,False,state,LA
+77790,,Radioelement handling,149.0,1,False,state,LA
+77790,26,Radioelement handling,112.0,1,False,state,LA
+77790,TC,Radioelement handling,37.0,1,False,state,LA
+77799,,Radium/radioisotope therapy   BR,77799.0,1,False,state,LA
+77799,TC,Radium/radioisotope therapy    BR,78000.0,1,False,state,LA
+78000,26,"Thyroid, single uptake",21.0,1,False,state,LA
+78000,TC,"Thyroid, single uptake",70.0,1,False,state,LA
+78001,,"Thyroid, multiple uptakes",122.0,1,False,state,LA
+78001,26,"Thyroid, multiple uptakes",28.0,1,False,state,LA
+78001,TC,"Thyroid, multiple uptakes",94.0,1,False,state,LA
+78003,,Thyroid suppress/stimul,105.0,1,False,state,LA
+78003,26,Thyroid suppress/stimul,35.0,1,False,state,LA
+78003,TC,Thyroid suppress/stimul,70.0,1,False,state,LA
+78006,,"Thyroid,imaging with uptake",224.0,1,False,state,LA
+78006,26,"Thyroid,imaging with uptake",53.0,1,False,state,LA
+78006,TC,"Thyroid,imaging with uptake",172.0,1,False,state,LA
+78007,,"Thyroid,imaging with uptake",239.0,1,False,state,LA
+78007,26,"Thyroid,imaging with uptake",54.0,1,False,state,LA
+78007,TC,"Thyroid,imaging with uptake",185.0,1,False,state,LA
+78010,,Thyroid imaging,172.0,1,False,state,LA
+78010,26,Thyroid imaging,42.0,1,False,state,LA
+78010,TC,Thyroid imaging,131.0,1,False,state,LA
+78011,,Thyroid imaging with flow,222.0,1,False,state,LA
+78011,26,Thyroid imaging with flow,49.0,1,False,state,LA
+78011,TC,Thyroid imaging with flow,173.0,1,False,state,LA
+78015,,Thyroid met imaging,258.0,1,False,state,LA
+78015,26,Thyroid met imaging,73.0,1,False,state,LA
+78015,TC,Thyroid met imaging,185.0,1,False,state,LA
+78016,,Thyroid met imaging/studies,339.0,1,False,state,LA
+78016,26,Thyroid met imaging/studies,89.0,1,False,state,LA
+78016,TC,Thyroid met imaging/studies,250.0,1,False,state,LA
+78018,,"Thyroid, met imaging, body",491.0,1,False,state,LA
+78018,26,"Thyroid, met imaging, body",102.0,1,False,state,LA
+78018,TC,"Thyroid, met imaging, body",390.0,1,False,state,LA
+78020,,Thyroid met uptake....,60.0,1,False,state,LA
+78020,26,Thyroid met uptake....,45.0,1,False,state,LA
+78020,TC,Thyroid met uptake....,15.0,1,False,state,LA
+78070,,Parathyroid nuclear imaging,186.0,1,False,state,LA
+78070,26,Parathyroid nuclear imaging,56.0,1,False,state,LA
+78070,TC,Parathyroid nuclear imaging,131.0,1,False,state,LA
+78075,,Adrenal nuclear imaging,469.0,1,False,state,LA
+78075,26,Adrenal nuclear imaging,80.0,1,False,state,LA
+78075,TC,Adrenal nuclear imaging,390.0,1,False,state,LA
+78099,,Endocrine nuclear procedure    BR,78099.0,1,False,state,LA
+78099,TC,Endocrine nuclear procedure    BR,78102.0,1,False,state,LA
+78102,26,"Bone marrow imaging, ltd",60.0,1,False,state,LA
+78102,TC,"Bone marrow imaging, ltd",147.0,1,False,state,LA
+78103,,"Bone marrow imaging, mult",308.0,1,False,state,LA
+78103,26,"Bone marrow imaging, mult",81.0,1,False,state,LA
+78103,TC,"Bone marrow imaging, mult",227.0,1,False,state,LA
+78104,,"Bone marrow imaging, body",378.0,1,False,state,LA
+78104,26,"Bone marrow imaging, body",87.0,1,False,state,LA
+78104,TC,"Bone marrow imaging, body",292.0,1,False,state,LA
+78110,,"Plasma volume, single",91.0,1,False,state,LA
+78110,26,"Plasma volume, single",20.0,1,False,state,LA
+78110,TC,"Plasma volume, single",71.0,1,False,state,LA
+78111,,"Plasma volume, multiple",209.0,1,False,state,LA
+78111,26,"Plasma volume, multiple",24.0,1,False,state,LA
+78111,TC,"Plasma volume, multiple",185.0,1,False,state,LA
+78120,,"Red cell mass, single",150.0,1,False,state,LA
+78120,26,"Red cell mass, single",26.0,1,False,state,LA
+78120,TC,"Red cell mass, single",125.0,1,False,state,LA
+78121,,"Red cell mass, multiple",243.0,1,False,state,LA
+78121,26,"Red cell mass, multiple",35.0,1,False,state,LA
+78121,TC,"Red cell mass, multiple",208.0,1,False,state,LA
+78122,,Blood volume..........,391.0,1,False,state,LA
+78122,26,Blood volume..........,47.0,1,False,state,LA
+78122,TC,Blood volume..........,344.0,1,False,state,LA
+78130,,Red cell survival study,271.0,1,False,state,LA
+78130,26,Red cell survival study,66.0,1,False,state,LA
+78130,TC,Red cell survival study,205.0,1,False,state,LA
+78135,,Red cell survival kinetics,418.0,1,False,state,LA
+78135,26,Red cell survival kinetics,69.0,1,False,state,LA
+78135,TC,Red cell survival kinetics,350.0,1,False,state,LA
+78140,,Red cell sequestration,348.0,1,False,state,LA
+78140,26,Red cell sequestration,66.0,1,False,state,LA
+78140,TC,Red cell sequestration,283.0,1,False,state,LA
+78185,,Spleen imaging,213.0,1,False,state,LA
+78185,26,Spleen imaging,43.0,1,False,state,LA
+78185,TC,Spleen imaging,170.0,1,False,state,LA
+78190,,"Platelet survival, kinetics",527.0,1,False,state,LA
+78190,26,"Platelet survival, kinetics",117.0,1,False,state,LA
+78190,TC,"Platelet survival, kinetics",411.0,1,False,state,LA
+78191,,Platelet survival,592.0,1,False,state,LA
+78191,26,Platelet survival,66.0,1,False,state,LA
+78191,TC,Platelet survival,526.0,1,False,state,LA
+78195,,Lymph system imaging,368.0,1,False,state,LA
+78195,26,Lymph system imaging,76.0,1,False,state,LA
+78195,TC,Lymph system imaging,292.0,1,False,state,LA
+78199,,Blood/lymph nuclear exam    BR,78199.0,1,False,state,LA
+78199,TC,Blood/lymph nuclear exam    BR,78201.0,1,False,state,LA
+78201,26,Liver imaging,47.0,1,False,state,LA
+78201,TC,Liver imaging,170.0,1,False,state,LA
+78202,,Liver imaging with flow,262.0,1,False,state,LA
+78202,26,Liver imaging with flow,56.0,1,False,state,LA
+78202,TC,Liver imaging with flow,207.0,1,False,state,LA
+78205,,Liver imaging (3D)....,516.0,1,False,state,LA
+78205,26,Liver imaging (3D)....,75.0,1,False,state,LA
+78205,TC,Liver imaging (3D)....,441.0,1,False,state,LA
+78206,,Liver image (3d) w/ flow,516.0,1,False,state,LA
+78206,26,Liver image (3d) w/ flow,89.0,1,False,state,LA
+78206,TC,Liver image (3d) w/ flow,428.0,1,False,state,LA
+78215,,Liver and spleen imaging,263.0,1,False,state,LA
+78215,26,Liver and spleen imaging,53.0,1,False,state,LA
+78215,TC,Liver and spleen imaging,210.0,1,False,state,LA
+78216,,"Liver & spleen image, flow",312.0,1,False,state,LA
+78216,26,"Liver & spleen image, flow",62.0,1,False,state,LA
+78216,TC,"Liver & spleen image, flow",250.0,1,False,state,LA
+78220,,Liver function study,320.0,1,False,state,LA
+78226,26,Hepatobiliary system imaging,73.0,1,False,state,LA
+78226,TC,Hepatobiliary system imaging,601.0,1,False,state,LA
+78226,,Hepatobiliary system imaging,674.0,1,False,state,LA
+78227,26,Hepatobil syst image w/drug,88.0,1,False,state,LA
+78227,TC,Hepatobil syst image w/drug,835.0,1,False,state,LA
+78227,,Hepatobil syst image w/drug,923.0,1,False,state,LA
+78230,,Salivary gland imaging,206.0,1,False,state,LA
+78230,26,Salivary gland imaging,49.0,1,False,state,LA
+78230,TC,Salivary gland imaging,157.0,1,False,state,LA
+78231,,Serial salivary imaging,284.0,1,False,state,LA
+78231,26,Serial salivary imaging,57.0,1,False,state,LA
+78231,TC,Serial salivary imaging,227.0,1,False,state,LA
+78232,,Salivary gland function exam,305.0,1,False,state,LA
+78232,26,Salivary gland function exam,52.0,1,False,state,LA
+78232,TC,Salivary gland function exam,254.0,1,False,state,LA
+78258,,Esophageal motility study,287.0,1,False,state,LA
+78258,26,Esophageal motility study,80.0,1,False,state,LA
+78258,TC,Esophageal motility study,207.0,1,False,state,LA
+78261,,Gastric mucosa imaging,369.0,1,False,state,LA
+78261,26,Gastric mucosa imaging,75.0,1,False,state,LA
+78261,TC,Gastric mucosa imaging,294.0,1,False,state,LA
+78262,,Gastroesophageal reflux exam,378.0,1,False,state,LA
+78262,26,Gastroesophageal reflux exam,74.0,1,False,state,LA
+78262,TC,Gastroesophageal reflux exam,305.0,1,False,state,LA
+78264,,Gastric emptying study,380.0,1,False,state,LA
+78264,26,Gastric emptying study,84.0,1,False,state,LA
+78264,TC,Gastric emptying study,296.0,1,False,state,LA
+78267,,Breath tst attain/anal c -14   BR,78268.0,1,False,state,LA
+78270,,Vit b-12 absorption exam,133.0,1,False,state,LA
+78270,26,Vit b-12 absorption exam,22.0,1,False,state,LA
+78270,TC,Vit b-12 absorption exam,112.0,1,False,state,LA
+78271,,"Vit b-12 absorp exam, if",140.0,1,False,state,LA
+78271,26,"Vit b-12 absorp exam, if",22.0,1,False,state,LA
+78271,TC,"Vit b-12 absorp exam, if",119.0,1,False,state,LA
+78272,,"Vit b-12 absorp, combined",196.0,1,False,state,LA
+78272,26,"Vit b-12 absorp, combined",30.0,1,False,state,LA
+78272,TC,"Vit b-12 absorp, combined",167.0,1,False,state,LA
+78278,,Acute gi blood loss imaging,456.0,1,False,state,LA
+78278,26,Acute gi blood loss imaging,107.0,1,False,state,LA
+78278,TC,Acute gi blood loss imaging,350.0,1,False,state,LA
+78282,,Gi protein loss exam    BR,78282.0,1,False,state,LA
+78282,TC,Gi protein loss exam    BR,78282.0,1,False,state,LA
+78290,,Meckel's divert exam,292.0,1,False,state,LA
+78290,26,Meckel's divert exam,74.0,1,False,state,LA
+78290,TC,Meckel's divert exam,218.0,1,False,state,LA
+78291,,Leveen/shunt patency exam,313.0,1,False,state,LA
+78291,26,Leveen/shunt patency exam,94.0,1,False,state,LA
+78291,TC,Leveen/shunt patency exam,220.0,1,False,state,LA
+78299,,Gi nuclear procedure    BR,78299.0,1,False,state,LA
+78299,TC,Gi nuclear procedure    BR,78300.0,1,False,state,LA
+78300,26,"Bone imaging, limited area",68.0,1,False,state,LA
+78300,TC,"Bone imaging, limited area",180.0,1,False,state,LA
+78305,,"Bone imaging, multiple areas",353.0,1,False,state,LA
+78305,26,"Bone imaging, multiple areas",90.0,1,False,state,LA
+78305,TC,"Bone imaging, multiple areas",263.0,1,False,state,LA
+78306,,"Bone imaging, whole body",399.0,1,False,state,LA
+78306,26,"Bone imaging, whole body",93.0,1,False,state,LA
+78306,TC,"Bone imaging, whole body",307.0,1,False,state,LA
+78315,,"Bone imaging, 3 phase",452.0,1,False,state,LA
+78315,26,"Bone imaging, 3 phase",110.0,1,False,state,LA
+78315,TC,"Bone imaging, 3 phase",343.0,1,False,state,LA
+78320,,Bone imaging (3d),535.0,1,False,state,LA
+78320,26,Bone imaging (3d),112.0,1,False,state,LA
+78320,TC,Bone imaging (3d),424.0,1,False,state,LA
+78350,,"Bone mineral, single photon",80.0,1,False,state,LA
+78350,26,"Bone mineral, single photon",24.0,1,False,state,LA
+78350,TC,"Bone mineral, single photon",57.0,1,False,state,LA
+78351,,"Bone mineral, dual photon",55.0,1,False,state,LA
+78399,,Musculoskeletal nuclear exam    BR,78399.0,1,False,state,LA
+78399,TC,Musculoskeletal nuclear exam    BR,78414.0,1,False,state,LA
+78414,26,Non-imaging heart function,48.0,1,False,state,LA
+78414,TC,Non-imaging heart function    BR,78414.0,1,False,state,LA
+78428,,Cardiac shunt imaging,246.0,1,False,state,LA
+78428,26,Cardiac shunt imaging,84.0,1,False,state,LA
+78428,TC,Cardiac shunt imaging,162.0,1,False,state,LA
+78445,,Vascular flow imaging,191.0,1,False,state,LA
+78445,26,Vascular flow imaging,52.0,1,False,state,LA
+78445,TC,Vascular flow imaging,139.0,1,False,state,LA
+78451,26,Ht muscle image spect sing,136.0,1,False,state,LA
+78451,TC,Ht muscle image spect sing,606.0,1,False,state,LA
+78451,,Ht muscle image spect sing,742.0,1,False,state,LA
+78452,26,Ht muscle image spect mult,160.0,1,False,state,LA
+78452,TC,Ht muscle image spect mult,875.0,1,False,state,LA
+78452,,Ht muscle image spect mult,1035.0,1,False,state,LA
+78453,26,Ht muscle image planar sing,99.0,1,False,state,LA
+78453,TC,Ht muscle image planar sing,541.0,1,False,state,LA
+78453,,Ht muscle image planar sing,639.0,1,False,state,LA
+78454,26,Ht musc image planar mult,131.0,1,False,state,LA
+78454,TC,Ht musc image planar mult,782.0,1,False,state,LA
+78454,,Ht musc image planar mult,913.0,1,False,state,LA
+78456,,Acute venous thrombus image,797.0,1,False,state,LA
+78456,26,Acute venous thrombus image,100.0,1,False,state,LA
+78456,TC,Acute venous thrombus,697.0,1,False,state,LA
+78457,,Venous thrombosis imaging,279.0,1,False,state,LA
+78457,26,Venous thrombosis imaging,80.0,1,False,state,LA
+78457,TC,Venous thrombosis imaging,199.0,1,False,state,LA
+78458,,"Ven thrombosis images, bilat",384.0,1,False,state,LA
+78458,26,"Ven thrombosis images, bilat",96.0,1,False,state,LA
+78458,TC,"Ven thrombosis images, bilat",288.0,1,False,state,LA
+78459,,Heart muscle imaging (PET)    BR,78459.0,1,False,state,LA
+78459,TC,Heart muscle imaging (PET)    BR,78466.0,1,False,state,LA
+78466,26,Heart infarct image,75.0,1,False,state,LA
+78466,TC,Heart infarct image,189.0,1,False,state,LA
+78468,,"Heart infarct image, ef",348.0,1,False,state,LA
+78468,26,"Heart infarct image, ef",86.0,1,False,state,LA
+78468,TC,"Heart infarct image, ef",263.0,1,False,state,LA
+78469,,Heart infarct image (3D),486.0,1,False,state,LA
+78469,26,Heart infarct image (3D),96.0,1,False,state,LA
+78469,TC,Heart infarct image (3D),390.0,1,False,state,LA
+78472,,"Gated heart, planar, single",515.0,1,False,state,LA
+78472,26,"Gated heart, planar, single",103.0,1,False,state,LA
+78472,TC,"Gated heart, planar, single",413.0,1,False,state,LA
+78473,,"Gated heart, multiple",770.0,1,False,state,LA
+78473,26,"Gated heart, multiple",154.0,1,False,state,LA
+78473,TC,"Gated heart, multiple",616.0,1,False,state,LA
+78481,,"Heart first pass, single",493.0,1,False,state,LA
+78481,26,"Heart first pass, single",103.0,1,False,state,LA
+78481,TC,"Heart first pass, single",390.0,1,False,state,LA
+78483,,"Heart first pass, multiple",743.0,1,False,state,LA
+78483,26,"Heart first pass, multiple",155.0,1,False,state,LA
+78483,TC,"Heart first pass, multiple",588.0,1,False,state,LA
+78491,,"Heart image (pet), single    BR",78491.0,1,False,state,LA
+78491,TC,"Heart image (pet), single    BR",78492.0,1,False,state,LA
+78492,26,"Heart image (pet), multiple",224.0,1,False,state,LA
+78492,TC,"Heart image (pet), multiple    BR",78494.0,1,False,state,LA
+78494,26,"Heart image, spect....",112.0,1,False,state,LA
+78494,TC,"Heart image, spect....",413.0,1,False,state,LA
+78496,,Heart first pass add - on,183.0,1,False,state,LA
+78496,26,Heart first pass add - on,52.0,1,False,state,LA
+78496,TC,Heart first pass add - on,131.0,1,False,state,LA
+78499,,Cardiovascular nuclear exam    BR,78499.0,1,False,state,LA
+78499,TC,Cardiovascular nuclear exam    BR,78579.0,1,False,state,LA
+78579,TC,Lung ventilation imaging,310.0,1,False,state,LA
+78579,,Lung ventilation imaging,359.0,1,False,state,LA
+78580,,Lung perfusion imaging,327.0,1,False,state,LA
+78580,26,Lung perfusion imaging,80.0,1,False,state,LA
+78580,TC,Lung perfusion imaging,247.0,1,False,state,LA
+78582,26,Lung ventilat&perfus imaging,104.0,1,False,state,LA
+78582,TC,Lung ventilat&perfus imaging,557.0,1,False,state,LA
+78582,,Lung ventilat &perfus imaging,662.0,1,False,state,LA
+78597,26,Lung perfusion differential,72.0,1,False,state,LA
+78597,TC,Lung perfusion differential,333.0,1,False,state,LA
+78597,,Lung perfusion differential,404.0,1,False,state,LA
+78598,26,Lung perf&ventilat diferentl,82.0,1,False,state,LA
+78598,TC,Lung perf&ventilat diferentl,539.0,1,False,state,LA
+78598,,Lung perf&ventilat diferentl,621.0,1,False,state,LA
+78599,,Respiratory nuclear exam    BR,78599.0,1,False,state,LA
+78599,TC,Respiratory nuclear exam    BR,78600.0,1,False,state,LA
+78600,26,"Brain imaging, ltd static",47.0,1,False,state,LA
+78600,TC,"Brain imaging, ltd static",207.0,1,False,state,LA
+78605,,"Brain imaging, complete",302.0,1,False,state,LA
+78605,26,"Brain imaging, complete",59.0,1,False,state,LA
+78605,TC,"Brain imaging, complete",244.0,1,False,state,LA
+78606,,Brain imaging comp & flow,346.0,1,False,state,LA
+78606,26,Brain imaging comp & flow,69.0,1,False,state,LA
+78606,TC,Brain imaging comp & flow,278.0,1,False,state,LA
+78607,,Brain imaging (3d),601.0,1,False,state,LA
+78607,26,Brain imaging (3d),131.0,1,False,state,LA
+78607,TC,Brain imaging (3d),470.0,1,False,state,LA
+78608,,Brain imaging  (pet),145.0,1,False,state,LA
+78609,,Brain imaging (pet),156.0,1,False,state,LA
+78610,,Brain flow imaging only,146.0,1,False,state,LA
+78610,26,Brain flow imaging only,33.0,1,False,state,LA
+78610,TC,Brain flow imaging only,114.0,1,False,state,LA
+78630,,Cerebrospinal fluid scan,435.0,1,False,state,LA
+78630,26,Cerebrospinal fluid scan,74.0,1,False,state,LA
+78630,TC,Cerebrospinal fluid scan,362.0,1,False,state,LA
+78635,,Csf ventriculography,249.0,1,False,state,LA
+78635,26,Csf ventriculography,66.0,1,False,state,LA
+78635,TC,Csf ventriculography,183.0,1,False,state,LA
+78645,,Csf shunt evaluation,308.0,1,False,state,LA
+78645,26,Csf shunt evaluation,62.0,1,False,state,LA
+78645,TC,Csf shunt evaluation,247.0,1,False,state,LA
+78647,,Cerebrospinal fluid scan,515.0,1,False,state,LA
+78647,26,Cerebrospinal fluid scan,96.0,1,False,state,LA
+78647,TC,Cerebrospinal fluid scan,419.0,1,False,state,LA
+78650,,Csf leakage imaging,399.0,1,False,state,LA
+78650,26,Csf leakage imaging,66.0,1,False,state,LA
+78650,TC,Csf leakage imaging,333.0,1,False,state,LA
+78660,,Nuclear exam of tear flow,214.0,1,False,state,LA
+78660,26,Nuclear exam of tear flow,56.0,1,False,state,LA
+78660,TC,Nuclear exam of tear flow,158.0,1,False,state,LA
+78699,,Nervous system nuclear exam    BR,78699.0,1,False,state,LA
+78699,TC,Nervous system nuclear exam    BR,78700.0,1,False,state,LA
+78700,26,"Kidney imaging, static",48.0,1,False,state,LA
+78700,TC,"Kidney imaging, static",218.0,1,False,state,LA
+78701,,Kidney imaging with flow,308.0,1,False,state,LA
+78701,26,Kidney imaging with flow,53.0,1,False,state,LA
+78701,TC,Kidney imaging with flow,255.0,1,False,state,LA
+78707,,Kidney flow/function image,433.0,1,False,state,LA
+78707,26,Kidney flow/function image,99.0,1,False,state,LA
+78707,TC,Kidney flow/function image,334.0,1,False,state,LA
+78708,,Kidney flow/function image,452.0,1,False,state,LA
+78708,26,Kidney flow/function image,118.0,1,False,state,LA
+78708,TC,Kidney flow/function image,334.0,1,False,state,LA
+78709,,Kidney flow/function image,467.0,1,False,state,LA
+78709,26,Kidney flow/function  image,133.0,1,False,state,LA
+78709,TC,Kidney flow/function image,334.0,1,False,state,LA
+78710,,Kidney imaging (3D)...,511.0,1,False,state,LA
+78710,26,Kidney imaging (3D)...,70.0,1,False,state,LA
+78710,TC,Kidney imaging (3D)...,441.0,1,False,state,LA
+78725,,Kidney function study,172.0,1,False,state,LA
+78725,26,Kidney function study,39.0,1,False,state,LA
+78725,TC,Kidney function study,133.0,1,False,state,LA
+78730,,Urinary bladder retention,143.0,1,False,state,LA
+78730,26,Urinary bladder retention,38.0,1,False,state,LA
+78730,TC,Urinary bladder retention,105.0,1,False,state,LA
+78740,,Ureteral reflux study,217.0,1,False,state,LA
+78740,26,Ureteral reflux study,59.0,1,False,state,LA
+78740,TC,Ureteral reflux study,158.0,1,False,state,LA
+78761,,Testicular imaging & flow,306.0,1,False,state,LA
+78761,26,Testicular imaging & flow,77.0,1,False,state,LA
+78761,TC,Testicular imaging & flow,229.0,1,False,state,LA
+78799,,Genitourinary nuclear exam    BR,78799.0,1,False,state,LA
+78799,TC,Genitourinary nuclear exam    BR,78800.0,1,False,state,LA
+78800,26,"Tumor imaging, limited area",69.0,1,False,state,LA
+78800,TC,"Tumor imaging, limited area",254.0,1,False,state,LA
+78801,,"Tumor imaging, mult areas",388.0,1,False,state,LA
+78801,26,"Tumor imaging, mult areas",85.0,1,False,state,LA
+78801,TC,"Tumor imaging, mult areas",304.0,1,False,state,LA
+78802,,"Tumor imaging, whole body",490.0,1,False,state,LA
+78802,26,"Tumor imaging, whole body",93.0,1,False,state,LA
+78802,TC,"Tumor imaging, whole body",397.0,1,False,state,LA
+78803,,Tumor imaging (3D)....,602.0,1,False,state,LA
+78803,26,Tumor imaging (3D)....,113.0,1,False,state,LA
+78803,TC,Tumor imaging (3D)....,490.0,1,False,state,LA
+78804,26,Tumor imaging whole body,103.0,1,False,state,LA
+78804,TC,Tumor imaging whole body,1085.0,1,False,state,LA
+78804,,Tumor imaging whole body,1188.0,1,False,state,LA
+78805,,"Abscess imaging, ltd area",330.0,1,False,state,LA
+78805,26,"Abscess imaging, ltd area",76.0,1,False,state,LA
+78805,TC,"Abscess imaging, ltd area",254.0,1,False,state,LA
+78806,,"Abscess imaging, whole body",544.0,1,False,state,LA
+78806,26,"Abscess imaging, whole body",83.0,1,False,state,LA
+78806,TC,"Abscess imaging, whole body",462.0,1,False,state,LA
+78807,,Nuclear localization/abscess,586.0,1,False,state,LA
+78807,26,Nuclear localization/abscess,117.0,1,False,state,LA
+78807,TC,Nuclear localization/abscess,470.0,1,False,state,LA
+78808,,Iv inj ra drug dx study,84.0,1,False,state,LA
+78811,,Pet image ltd area,158.0,1,False,state,LA
+78812,,Pet image skull -thigh,192.0,1,False,state,LA
+78813,,Pet image full body,201.0,1,False,state,LA
+78814,,Pet image w/ct lmtd,221.0,1,False,state,LA
+78815,,Pet image w/ct skull -thigh,243.0,1,False,state,LA
+78816,,Pet image w/ct full body,245.0,1,False,state,LA
+78990,,Provide diag radionuclide(s)    BR,78999.0,1,False,state,LA
+78999,26,Nuclear diagnostic exam    BR,78999.0,1,False,state,LA
+79005,26,Nuclear rx oral admin,176.0,1,False,state,LA
+79005,TC,Nuclear rx oral admin,95.0,1,False,state,LA
+79005,,Nuclear rx oral admin,271.0,1,False,state,LA
+79101,26,Nuclear rx iv admin,204.0,1,False,state,LA
+79101,TC,Nuclear rx iv admin,102.0,1,False,state,LA
+79101,,Nuclear rx iv admin,306.0,1,False,state,LA
+79200,,Intracavitary  nuc treatment,403.0,1,False,state,LA
+79200,26,Intracavitary nuc treatment,214.0,1,False,state,LA
+79200,TC,Intracavitary nuc treatment,189.0,1,False,state,LA
+79300,,Interstitial nuclear therapy    BR,79300.0,1,False,state,LA
+79300,TC,Interstitial nuclear therapy   BR,79403.0,1,False,state,LA
+79403,TC,Hematopoietic nuclear tx,156.0,1,False,state,LA
+79403,,Hematopoietic nuclear tx,374.0,1,False,state,LA
+79440,,Nuclear joint therapy,403.0,1,False,state,LA
+79440,26,Nuclear joint therapy,214.0,1,False,state,LA
+79440,TC,Nuclear joint therapy,189.0,1,False,state,LA
+79445,,Nuclear rx intra -arterial,236.0,1,False,state,LA
+79900,,Provide ther radiopharm(s)    BR,80048.0,1,False,state,LA
